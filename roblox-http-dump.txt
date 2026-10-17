@@ -5151,3 +5151,808 @@ nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"fa
 transfer-encoding: chunked
 
 {"contentType":"Games","gameSetTypeId":23,"gameSetTargetId":691,"primarySortId":23,"secondarySortId":691,"sortId":"top-trending","appliedFilters":"device=computer,age=all,country=id","sortDisplayName":"Tren Teratas","topicLayoutData":{"infoText":"Pengalaman virtual teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"},"treatmentType":"Carousel","games":[{"universeId":10765288803,"rootPlaceId":114326934417838,"name":"Pecahkan dan Curi Telur","playerCount":203080,"totalUpVotes":300224,"totalDownVotes":7255,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768866246,"rootPlaceId":121671165541545,"name":"[HALLOWEEN] JALAN YANG SALAH! ","playerCount":12604,"totalUpVotes":6903,"totalDownVotes":740,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10512942223,"rootPlaceId":114574503491412,"name":"[UPD 3] Anime Zero","playerCount":22804,"totalUpVotes":120961,"totalDownVotes":2935,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"RPG"},{"universeId":10767634248,"rootPlaceId":102476635575386,"name":"Simulasi Pemadam Kebakaran \uD83D\uDE92","playerCount":19393,"totalUpVotes":19049,"totalDownVotes":1741,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10685282333,"rootPlaceId":96510596525082,"name":"[\uD83C\uDF83⏳] Bola VS Bola","playerCount":43530,"totalUpVotes":291567,"totalDownVotes":36610,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Pesta & Kasual"},{"universeId":1054526971,"rootPlaceId":2916899287,"name":"Misi Penyelamatan Blackhawk 5","playerCount":28617,"totalUpVotes":621104,"totalDownVotes":67898,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Action","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":1176784616,"rootPlaceId":3260590327,"name":"[\uD83C\uDF19 NIGHT 2] Tower Defense Simulator","playerCount":23034,"totalUpVotes":2082024,"totalDownVotes":129236,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10766578375,"rootPlaceId":134728380684025,"name":"Deretan Belalang [BAB 2] ","playerCount":11430,"totalUpVotes":20287,"totalDownVotes":1603,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Survival","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":7633926880,"rootPlaceId":114234929420007,"name":"[PETA BARU] BloxStrike ","playerCount":19512,"totalUpVotes":633482,"totalDownVotes":35490,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Tembak-Menembak"},{"universeId":10495391267,"rootPlaceId":110527353762049,"name":"Bursa Efek Roblox 2","playerCount":1700,"totalUpVotes":14881,"totalDownVotes":1115,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10765298801,"rootPlaceId":111543903102439,"name":"+1 Lompat Batu","playerCount":46758,"totalUpVotes":70683,"totalDownVotes":2354,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767825538,"rootPlaceId":86537831042007,"name":"Mirage","playerCount":52957,"totalUpVotes":50223,"totalDownVotes":5109,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10767380385,"rootPlaceId":94891079210424,"name":"Jual Kentang Goreng! [Anomali] \uD83C\uDF5F ","playerCount":96596,"totalUpVotes":11045,"totalDownVotes":2486,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Survival"},{"universeId":5578556129,"rootPlaceId":16146832113,"name":"Vanguard: Ulang Tahun ke-2","playerCount":67076,"totalUpVotes":2593787,"totalDownVotes":87966,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10768944292,"rootPlaceId":139780970631001,"name":"[DUNIA BARU \uD83C\uDF83] Peternakan Prasejarah ","playerCount":9279,"totalUpVotes":30611,"totalDownVotes":946,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":4730278139,"rootPlaceId":13621938427,"name":"Petarung Jalanan 6 x UBG\uD83E\uDD4A ","playerCount":12606,"totalUpVotes":1406552,"totalDownVotes":208602,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":10767386157,"rootPlaceId":103363457515322,"name":"Menebang Hutan ","playerCount":56706,"totalUpVotes":10866,"totalDownVotes":947,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767907509,"rootPlaceId":112332082095944,"name":"Mesin Ragdoll ⚙️","playerCount":16095,"totalUpVotes":40294,"totalDownVotes":3121,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10766506199,"rootPlaceId":116802325837172,"name":"7 Hari Menjaga Kucing ","playerCount":23817,"totalUpVotes":21613,"totalDownVotes":7734,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10765490774,"rootPlaceId":85738654635245,"name":"Naik Untuk Telur Hewan \uD83E\uDD5A","playerCount":61599,"totalUpVotes":64411,"totalDownVotes":677,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10769037074,"rootPlaceId":138572313449154,"name":"[\uD83C\uDF83] Panik Reli! [Reli Dua Pemain]\n","playerCount":5112,"totalUpVotes":1723,"totalDownVotes":270,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10768349969,"rootPlaceId":117382010759945,"name":"Kopdes Shift Anomalies","playerCount":3107,"totalUpVotes":295,"totalDownVotes":49,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Survival"},{"universeId":10768728930,"rootPlaceId":91445552037955,"name":"HUSH [Ekstraksi Zombie]","playerCount":3821,"totalUpVotes":6902,"totalDownVotes":382,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Survival","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":8307114974,"rootPlaceId":72920620366355,"name":"[ZOMBIES] Operasi Satu","playerCount":7030,"totalUpVotes":103848,"totalDownVotes":16863,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Tembak-Menembak","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":10673920146,"rootPlaceId":99409088950210,"name":"Bertahan Hidup dari Sejuta Monyet ","playerCount":11055,"totalUpVotes":116415,"totalDownVotes":2879,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10768498581,"rootPlaceId":72169370437173,"name":"Tribes 3v3 [segera??]","playerCount":10778,"totalUpVotes":5438,"totalDownVotes":3048,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Tembak-Menembak","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":8813969120,"rootPlaceId":127089247654125,"name":"Legasi TR","playerCount":6361,"totalUpVotes":102338,"totalDownVotes":3843,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":65241,"rootPlaceId":189707,"name":"Kelangsungan Hidup Bencana Alam","playerCount":5796,"totalUpVotes":4418390,"totalDownVotes":449365,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Survival"},{"universeId":10526853622,"rootPlaceId":132239307080610,"name":"Memancing Dalam \uD83C\uDFA3","playerCount":11697,"totalUpVotes":38173,"totalDownVotes":1154,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768358494,"rootPlaceId":84411136498539,"name":"\uD83D\uDCE6 Tycoon Paket","playerCount":5448,"totalUpVotes":9283,"totalDownVotes":582,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":88070565,"rootPlaceId":185655149,"name":"[\uD83E\uDD87] Selamat datang di Bloxburg ","playerCount":15742,"totalUpVotes":5642949,"totalDownVotes":733876,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Role Play & Simulasi Avatar"},{"universeId":10292064735,"rootPlaceId":97927337336367,"name":"SCROOMS \uD83C\uDF44 ","playerCount":4042,"totalUpVotes":5225,"totalDownVotes":334,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Petualangan"},{"universeId":10744310825,"rootPlaceId":104320321984431,"name":"Cat untuk Menjadi Kaya \uD83C\uDFA8","playerCount":25553,"totalUpVotes":13530,"totalDownVotes":4564,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767886942,"rootPlaceId":91552749822595,"name":"[UPD2\uD83C\uDF83} Run Your Own Farmstead! [v2.0]","playerCount":3223,"totalUpVotes":5335,"totalDownVotes":515,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10740316645,"rootPlaceId":79389059854988,"name":"⛏️ Tambang Anime Saya ","playerCount":11784,"totalUpVotes":100509,"totalDownVotes":1111,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768176407,"rootPlaceId":129425166667725,"name":"[☢️UPD] Hancurkan Kota ","playerCount":13752,"totalUpVotes":15479,"totalDownVotes":1645,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10767582899,"rootPlaceId":101914705206759,"name":"[UPD] \uD83D\uDCF1 Bangun Kekaisaran Telepon ","playerCount":12713,"totalUpVotes":17609,"totalDownVotes":2765,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10371156562,"rootPlaceId":108679402300081,"name":"Pasar Hutan","playerCount":4038,"totalUpVotes":27749,"totalDownVotes":1532,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10197758650,"rootPlaceId":76427490154192,"name":"Royalti! [Kami Panggil Rumah\uD83C\uDF05] Gunung Lonely ","playerCount":2968,"totalUpVotes":15555,"totalDownVotes":1021,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Obby & Platform"},{"universeId":10623237963,"rootPlaceId":96058414266541,"name":"[ \uD83C\uDF83NEW ] MOUNT SENADI ⛅","playerCount":2072,"totalUpVotes":1043,"totalDownVotes":97,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Obby & Platform"},{"universeId":10767567751,"rootPlaceId":94094795358582,"name":"Bunker vs Verity ","playerCount":42644,"totalUpVotes":7188,"totalDownVotes":1542,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10567073221,"rootPlaceId":89765193260788,"name":"[NEW] Langit Besi - Beta ","playerCount":1165,"totalUpVotes":3194,"totalDownVotes":1082,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":6161049307,"rootPlaceId":18172550962,"name":"[⭐2x Keinginan!] Pedang Piksel ","playerCount":10365,"totalUpVotes":765198,"totalDownVotes":25341,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"RPG"},{"universeId":10126644530,"rootPlaceId":104178853788462,"name":"[\uD83D\uDED2] Jalankan Toko Sari-Sari! ","playerCount":14067,"totalUpVotes":21833,"totalDownVotes":539,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767201394,"rootPlaceId":121371815815493,"name":"Scooter Duo \uD83D\uDEF4 [2 Pemain Obby] ","playerCount":1355,"totalUpVotes":4643,"totalDownVotes":143,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Obby & Platform"},{"universeId":10768458048,"rootPlaceId":119263815547952,"name":"Tycoon Komandan Tentara [UPDATE 3]","playerCount":11234,"totalUpVotes":4819,"totalDownVotes":385,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10768084263,"rootPlaceId":75545101555306,"name":"Kembangkan Sel ","playerCount":4583,"totalUpVotes":7622,"totalDownVotes":2549,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767826343,"rootPlaceId":73810139314608,"name":"[UPDATE] Pasukan Udara Zombie ✈️ ","playerCount":5043,"totalUpVotes":10098,"totalDownVotes":1308,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Tembak-Menembak"},{"universeId":10768541373,"rootPlaceId":115532003479675,"name":"Jangan Dipecat di Tempat Kerja! \uD83E\uDDF3 [Event Skin Terbatas! ] ","playerCount":5229,"totalUpVotes":10143,"totalDownVotes":1353,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10629695169,"rootPlaceId":72858262610964,"name":"[\uD83C\uDF89] Simulator Ketuk REBORN ","playerCount":28417,"totalUpVotes":6498,"totalDownVotes":295,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767912502,"rootPlaceId":112241277471797,"name":"Tycoon Perdagangan","playerCount":4752,"totalUpVotes":3459,"totalDownVotes":236,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768943703,"rootPlaceId":137185096993293,"name":"[UPDATE BALAP] Reli Dengan Teman ","playerCount":1242,"totalUpVotes":1670,"totalDownVotes":387,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10767928510,"rootPlaceId":126256942507957,"name":"Silsilah Piksel [DUNGEONS+ HOLLOWEEN+RACE EVO] ","playerCount":9039,"totalUpVotes":69552,"totalDownVotes":877,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"RPG"},{"universeId":10767814721,"rootPlaceId":137626413669175,"name":"⛩️ +1 Evolusi Karate ","playerCount":15072,"totalUpVotes":26424,"totalDownVotes":363,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10767824942,"rootPlaceId":120731410233153,"name":"+1 Peningkatan Level Pembunuh ","playerCount":14701,"totalUpVotes":11861,"totalDownVotes":505,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10761760907,"rootPlaceId":87604112704506,"name":"Pesanan Sendok Keberuntungan [BETA]","playerCount":21563,"totalUpVotes":3089,"totalDownVotes":1129,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":9710205604,"rootPlaceId":128637868413472,"name":"Kru Bersih \uD83E\uDDF9[Skin Kelas!] ","playerCount":1109,"totalUpVotes":77408,"totalDownVotes":4391,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":2153167977,"rootPlaceId":5976159288,"name":"Formula Apex Racing","playerCount":1722,"totalUpVotes":137354,"totalDownVotes":19288,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":2404080894,"rootPlaceId":6447798030,"name":"Funky Friday (Bhs. Indonesia)","playerCount":2140,"totalUpVotes":1976837,"totalDownVotes":215349,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Action"},{"universeId":10766240516,"rootPlaceId":135911818477576,"name":"[\uD83C\uDF83] Tembak Untuk Telur ","playerCount":5585,"totalUpVotes":9582,"totalDownVotes":1559,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":5580972377,"rootPlaceId":16154918775,"name":"[PERINGKAT] \uD83D\uDCA5 BUCKSHOT ","playerCount":2489,"totalUpVotes":704025,"totalDownVotes":25616,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Strategi"},{"universeId":10739112966,"rootPlaceId":119242658671952,"name":"Pro Sepak Bola Jalanan ","playerCount":9593,"totalUpVotes":11217,"totalDownVotes":2153,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10768026334,"rootPlaceId":97572766830918,"name":"[\uD83C\uDFA8] Sembunyikan Dalam Piksel ","playerCount":4482,"totalUpVotes":4095,"totalDownVotes":2909,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Pesta & Kasual"},{"universeId":5661020014,"rootPlaceId":16426359665,"name":"PARANORMAL [HORROR]","playerCount":392,"totalUpVotes":91057,"totalDownVotes":7440,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Petualangan","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":10767012496,"rootPlaceId":101880234193261,"name":"[BARU] Turbo Soccer : Beta 1.0 ","playerCount":14282,"totalUpVotes":64013,"totalDownVotes":4911,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10767566226,"rootPlaceId":135675416428111,"name":"Jangan Mencuri Telur Saya!","playerCount":13912,"totalUpVotes":13697,"totalDownVotes":680,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768928887,"rootPlaceId":80764527426086,"name":"Petualangan Boneka Bunga","playerCount":4606,"totalUpVotes":32896,"totalDownVotes":552,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Petualangan"},{"universeId":7235130477,"rootPlaceId":128248561501148,"name":"Apple iPad Asli ","playerCount":6916,"totalUpVotes":7667,"totalDownVotes":764,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Role Play & Simulasi Avatar"},{"universeId":10766845655,"rootPlaceId":101999883467300,"name":"Ubin Irama Piano ","playerCount":8835,"totalUpVotes":11004,"totalDownVotes":4657,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Hiburan"},{"universeId":10770000716,"rootPlaceId":133281140264583,"name":"Apple iPad Asli","playerCount":8038,"totalUpVotes":9974,"totalDownVotes":826,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Role Play & Simulasi Avatar"},{"universeId":10766691148,"rootPlaceId":104050046639813,"name":"Naik Ikan \uD83D\uDC1F","playerCount":2776,"totalUpVotes":28972,"totalDownVotes":912,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10758735332,"rootPlaceId":139509156816746,"name":"Jadi Penjaga Warung","playerCount":2080,"totalUpVotes":332,"totalDownVotes":73,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10767138232,"rootPlaceId":122840796290491,"name":"[\uD83C\uDF83] Kukirin Life [Pengujian] ","playerCount":37702,"totalUpVotes":7597,"totalDownVotes":1419,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10643877552,"rootPlaceId":126878515897518,"name":"Bangun Klub Sepak Bola!","playerCount":2504,"totalUpVotes":9460,"totalDownVotes":595,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10769876151,"rootPlaceId":102155891663543,"name":"Buat Ramen Untuk Menjadi Kaya (Pengujian)","playerCount":4528,"totalUpVotes":2377,"totalDownVotes":129,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10057403337,"rootPlaceId":84556640895285,"name":"[3H] Arena Deagle ","playerCount":9683,"totalUpVotes":83831,"totalDownVotes":11993,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Tembak-Menembak"},{"universeId":10766135603,"rootPlaceId":102555956950143,"name":"+1 Batu Angkat untuk Harta Karun ","playerCount":8395,"totalUpVotes":18605,"totalDownVotes":718,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10765841403,"rootPlaceId":119925538689885,"name":"Curi atau Mati [UPDATE!]","playerCount":4419,"totalUpVotes":9223,"totalDownVotes":1120,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10758824872,"rootPlaceId":93523763376122,"name":"[☄️] Naik Dino ","playerCount":18624,"totalUpVotes":13448,"totalDownVotes":301,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767774668,"rootPlaceId":97606215092194,"name":"[\uD83E\uDD5E] Lukis Pancake ","playerCount":13273,"totalUpVotes":3157,"totalDownVotes":971,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Pesta & Kasual"},{"universeId":3317771874,"rootPlaceId":8737899170,"name":"✨ Pet Simulator 99! (Bahasa Indonesia)","playerCount":45967,"totalUpVotes":3071887,"totalDownVotes":170708,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":321778215,"rootPlaceId":735030788,"name":"Royale\uD83C\uDF83High ","playerCount":6932,"totalUpVotes":3265783,"totalDownVotes":535111,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Role Play & Simulasi Avatar"},{"universeId":10769516701,"rootPlaceId":72293101527469,"name":"Kartu Wajah: Pertarungan Rias [⭐UPD] ","playerCount":39057,"totalUpVotes":74786,"totalDownVotes":835,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Role Play & Simulasi Avatar"},{"universeId":9891453691,"rootPlaceId":93466613073564,"name":"[v1.3] FPS Berenskop \uD83C\uDFAF ","playerCount":1502,"totalUpVotes":27209,"totalDownVotes":3993,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Tembak-Menembak"},{"universeId":10768418427,"rootPlaceId":132956556682909,"name":"Tinju Orang Pertama","playerCount":3793,"totalUpVotes":15610,"totalDownVotes":1142,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":10761375767,"rootPlaceId":120252007682677,"name":"Selancar dan Penyelamatan \uD83C\uDF0A\uD83D\uDEDF ","playerCount":10938,"totalUpVotes":98618,"totalDownVotes":2772,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10757247806,"rootPlaceId":103767961452227,"name":"Bangun dan Taklukkan [V0.1] ","playerCount":7810,"totalUpVotes":11401,"totalDownVotes":1929,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Strategi"},{"universeId":10762730780,"rootPlaceId":79148536770575,"name":"Arena Ludo! \uD83C\uDFB2 [2-4 Pemain] ","playerCount":589,"totalUpVotes":753,"totalDownVotes":284,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10767957681,"rootPlaceId":109949693269081,"name":"[UPD 4] Tycoon, tetapi satu dropper ","playerCount":3211,"totalUpVotes":6486,"totalDownVotes":809,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10764839604,"rootPlaceId":88611017452341,"name":"Backflip untuk Hewan!","playerCount":7407,"totalUpVotes":45873,"totalDownVotes":1061,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":9792551117,"rootPlaceId":122093998639862,"name":"Shift Malam Kamar Jenazah","playerCount":2128,"totalUpVotes":46120,"totalDownVotes":18686,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10768172922,"rootPlaceId":137151641329864,"name":"RoFront [PvP Dunia] ","playerCount":16550,"totalUpVotes":4827,"totalDownVotes":1191,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10765491459,"rootPlaceId":78710221869926,"name":"Arena Pahlawan Super","playerCount":14436,"totalUpVotes":19914,"totalDownVotes":1959,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":2583564222,"rootPlaceId":6804602922,"name":"[\uD83C\uDF83] Beta Boxing! \uD83E\uDD4A ","playerCount":4570,"totalUpVotes":363778,"totalDownVotes":86035,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":10768468695,"rootPlaceId":100877684758792,"name":"\uD83D\uDD0CLISTRIK\uD83D\uDD25Tukang Bata ","playerCount":4985,"totalUpVotes":7492,"totalDownVotes":3184,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10762636904,"rootPlaceId":132929771812494,"name":"[\uD83C\uDFC6UPD+X2\uD83D\uDCB0] Pertahanan Menara Kameraman ","playerCount":20154,"totalUpVotes":94862,"totalDownVotes":972,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10765312940,"rootPlaceId":113956654824187,"name":"[\uD83C\uDF0B] Berenang Untuk Telur! ","playerCount":11542,"totalUpVotes":13574,"totalDownVotes":555,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10421901778,"rootPlaceId":140576663170542,"name":"[CINEMA] Bersihkan Semuanya ","playerCount":6772,"totalUpVotes":49451,"totalDownVotes":2541,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Puzzle"}]}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v1/clear-global-unread-count HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 2
+Connection: keep-alive
+
+[]
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 20
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:18:37 GMT
+server: public-gateway
+roblox-machine-id: 0252a189-fef6-4bfc-82b0-c206a708b2a8
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 60, 60;w=60, 60;w=60
+x-ratelimit-remaining: 59
+x-ratelimit-reset: 22
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"status":"success"}
+
+#### REQUEST ####
+
+GET /platform-chat-api/v1/get-user-conversations?include_cards=true&include_user_data=true&include_messages=true&check_for_group_up=true HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:18:37 GMT
+server: public-gateway
+roblox-machine-id: 9270dc42-2fd5-1069-9097-7042088b46ef
+x-envoy-upstream-service-time: 170
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 120, 120;w=60, 120;w=60
+x-ratelimit-remaining: 119
+x-ratelimit-reset: 22
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c089
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"conversations":[{"source":"channels","id":"00000000-0000-4000-0000-000000000000","type":"group","name":"Account Forgotten (auf84cb9c2bd304bbeb6317a985aa836), roblox","is_default_name":true,"created_by":1,"participant_user_ids":[2,3,1],"user_data":{"2":{"id":2,"name":"Account Forgotten (auf84cb9c2bd304bbeb6317a985aa836)","display_name":"Account Forgotten (auf84cb9c2bd304bbeb6317a985aa836)","combined_name":"Account Forgotten (auf84cb9c2bd304bbeb6317a985aa836)","is_verified":false},"3":{"id":3,"name":"roblox","display_name":"roblox","combined_name":"roblox","is_verified":false},"1":{"id":1,"name":"roblox","display_name":"roblox","combined_name":"roblox","is_verified":false}},"messages":[],"unread_message_count":0,"updated_at":"2026-04-16T15:02:45.482Z","created_at":"2026-04-16T15:02:45.482Z","moderation_type":"moderated","user_pending_status":"not_pending","sort_index":1776351765482,"has_group_up":false,"osa_acknowledgement_status":"not_applicable","user_opted_into_chat_messages":"not_applicable"},{"source":"friends","id":null,"type":"one_to_one","name":"roblox","is_default_name":true,"created_by":null,"participant_user_ids":[3,4],"user_data":{"3":{"id":3,"name":"roblox","display_name":"roblox","combined_name":"roblox","is_verified":false},"4":{"id":4,"name":"roblox","display_name":"roblox","combined_name":"roblox","is_verified":false}},"messages":[{"id":"00000000-0000-4000-0000-000000000000","content":"Selesaikan pemeriksaan usia untuk mulai chat!","sender_user_id":null,"created_at":"2026-01-19T11:59:40.83Z","type":"system","replies_to":null,"is_deleted":false,"is_previewable":false,"is_badgeable":false,"visibility":"invalid"}],"unread_message_count":0,"updated_at":"2026-01-19T11:59:40.83Z","created_at":"2026-01-19T11:59:39.83Z","sort_index":1768823979830,"participant_pending_status":"not_pending","osa_acknowledgement_status":"acknowledged","user_opted_into_chat_messages":"not_applicable"}],"next_cursor":""}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v1/get-chat-moderation-statuses HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 10
+Connection: keep-alive
+
+{"ids":[]}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 60
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:18:38 GMT
+server: public-gateway
+roblox-machine-id: 40e902fb-1f86-08f5-9995-e11f0c932317
+x-envoy-upstream-service-time: 15
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 22
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"user_timeout_range":null,"conversation_timeout_ranges":[]}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v2/get-modal-sequence HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 64
+Connection: keep-alive
+
+{"is_in_experience":false,"modal_sequence":"chat_landing_modal"}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:18:38 GMT
+server: public-gateway
+roblox-machine-id: 1e87a169-bcff-20e9-75f6-0fa878e959f9
+x-envoy-upstream-service-time: 24
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 22
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"modal_variant":"chat_landing_age_verified_comms_upsell","modal_layout":{"id":"private-comms-chat-landing-verify-age-upsell","header":{"text":"Kami perlu memeriksa usiamu sebelum kamu dapat menggunakan chat"},"body":{"text":"Proses ini membantumu chat dengan aman, dan tidak butuh waktu lama."},"buttons":[{"text":"Buka chat","action":{"type":"open_fae_upsell","properties":null}}],"dismissible":true,"seen_record_action":"record_has_seen","dismissed_record_action":"record_dont_show_again","label":null},"sdui":null}
+
+#### REQUEST ####
+
+DELETE /v1/my/new-friend-requests HTTP/2.0
+host: friends.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Chat
+x-csrf-token: UdDOr8+6BsJv
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-length: 16
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:18:38 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: bc90e3cf-c0eb-1055-9127-2b485a6ad60e
+x-envoy-upstream-service-time: 3
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 10, 10000;w=60, 10;w=60
+x-ratelimit-remaining: 9
+x-ratelimit-reset: 21
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"status":false}
+
+#### REQUEST ####
+
+GET /platform-chat-api/v1/get-conversation-messages?include_cards=true&conversation_id=00000000-0000-4000-0000-000000000000 HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 53
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:26:18 GMT
+server: public-gateway
+roblox-machine-id: 121a9e1b-ad54-59df-63a5-8ea150b06bfd
+x-envoy-upstream-service-time: 66
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 120, 120;w=60, 120;w=60
+x-ratelimit-remaining: 119
+x-ratelimit-reset: 41
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"messages":[],"next_cursor":"","previous_cursor":""}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v2/get-modal-sequence HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 125
+Connection: keep-alive
+
+{"modal_sequence":"conversation_top_modal","is_in_experience":false,"conversation_id":"00000000-0000-4000-0000-000000000000"}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 198
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:26:18 GMT
+server: public-gateway
+roblox-machine-id: d361f9fd-7e44-90f7-065f-694a18da3550
+x-envoy-upstream-service-time: 43
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 41
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"modal_variant":"none","modal_layout":{"id":"","label":null,"header":null,"body":null,"buttons":null,"seen_record_action":"no_op","dismissible":false,"dismissed_record_action":"no_op"},"sdui":null}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v1/get-chat-moderation-statuses HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 48
+Connection: keep-alive
+
+{"ids":["00000000-0000-4000-0000-000000000000"]}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 60
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:26:19 GMT
+server: public-gateway
+roblox-machine-id: 69d2f954-f040-c610-8708-445cd65df1ea
+x-envoy-upstream-service-time: 15
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 41
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"user_timeout_range":null,"conversation_timeout_ranges":[]}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v2/get-modal-sequence HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 123
+Connection: keep-alive
+
+{"modal_sequence":"conversation_overlay","is_in_experience":false,"conversation_id":"00000000-0000-4000-0000-000000000000"}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 198
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:26:19 GMT
+server: public-gateway
+roblox-machine-id: e88f9aa7-2188-263c-3558-d291829003a9
+x-envoy-upstream-service-time: 49
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 98
+x-ratelimit-reset: 41
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"modal_variant":"none","modal_layout":{"id":"","label":null,"header":null,"body":null,"buttons":null,"seen_record_action":"no_op","dismissible":false,"dismissed_record_action":"no_op"},"sdui":null}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v2/get-modal-sequence HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 128
+Connection: keep-alive
+
+{"modal_sequence":"conversation_bottom_modal","is_in_experience":false,"conversation_id":"00000000-0000-4000-0000-000000000000"}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 198
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:26:19 GMT
+server: public-gateway
+roblox-machine-id: e88f9aa7-2188-263c-3558-d291829003a9
+x-envoy-upstream-service-time: 49
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 98
+x-ratelimit-reset: 41
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"modal_variant":"none","modal_layout":{"id":"","label":null,"header":null,"body":null,"buttons":null,"seen_record_action":"no_op","dismissible":false,"dismissed_record_action":"no_op"},"sdui":null}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v2/get-modal-sequence HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 94
+Connection: keep-alive
+
+{"friend_id":"1","modal_sequence":"conversation_top_modal","is_in_experience":false}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 198
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:34:35 GMT
+server: public-gateway
+roblox-machine-id: a64c995e-c88a-289a-66b5-40ada33ee9f0
+x-envoy-upstream-service-time: 32
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 25
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"modal_variant":"none","modal_layout":{"id":"","label":null,"header":null,"body":null,"buttons":null,"seen_record_action":"no_op","dismissible":false,"dismissed_record_action":"no_op"},"sdui":null}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v2/get-modal-sequence HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 97
+Connection: keep-alive
+
+{"friend_id":"1","modal_sequence":"conversation_bottom_modal","is_in_experience":false}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:34:35 GMT
+server: public-gateway
+roblox-machine-id: 40e902fb-1f86-08f5-9995-e11f0c932317
+x-envoy-upstream-service-time: 23
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 98
+x-ratelimit-reset: 25
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"modal_variant":"conversation_bottom_age_verification_required_modal","modal_layout":{"id":"private-comms-conversation-bottom-verify-age","header":{"text":"Kami perlu memeriksa usiamu sebelum kamu dapat menggunakan chat"},"body":{"text":"Proses ini membantumu chat dengan aman, dan tidak butuh waktu lama."},"buttons":[{"text":"Buka chat","action":{"type":"open_fae_upsell","properties":null}}],"seen_record_action":"record_has_seen","dismissed_record_action":"record_dont_show_again","label":null,"dismissible":false},"sdui":null}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v2/get-modal-sequence HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: UdDOr8+6BsJv
+Content-Length: 92
+Connection: keep-alive
+
+{"friend_id":"1","modal_sequence":"conversation_overlay","is_in_experience":false}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 198
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:34:34 GMT
+server: public-gateway
+roblox-machine-id: bbfc1a68-a624-1f03-9476-98708cbd323f
+x-envoy-upstream-service-time: 26
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 97
+x-ratelimit-reset: 25
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"modal_variant":"none","modal_layout":{"id":"","label":null,"header":null,"body":null,"buttons":null,"seen_record_action":"no_op","dismissible":false,"dismissed_record_action":"no_op"},"sdui":null}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v1/create-conversations HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: 6XwVFh9F2vbW
+Content-Length: 78
+Connection: keep-alive
+
+{"conversations":[{"type":"one_to_one","participant_user_ids":[2]}]}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:45:20 GMT
+server: public-gateway
+roblox-machine-id: 2c6edd20-3275-9878-a165-82c108eae751
+x-envoy-upstream-service-time: 160
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 15, 15;w=60, 15;w=60
+x-ratelimit-remaining: 14
+x-ratelimit-reset: 40
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"conversations":[{"source":"channels","id":"00000000-0000-4000-0000-000000000000","type":"one_to_one","name":"rbxnux","is_default_name":true,"created_by":1,"participant_user_ids":[2,1],"user_data":{},"messages":[],"unread_message_count":0,"updated_at":"2026-10-17T10:45:20.225Z","created_at":"2026-10-17T10:45:20.225Z","status":"success","moderation_type":"moderated","user_opted_into_chat_messages":"not_applicable"}]}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v1/get-conversations HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: 6XwVFh9F2vbW
+Content-Length: 172
+Connection: keep-alive
+
+{"include_cards":true,"include_user_data":true,"ids":["00000000-0000-4000-0000-000000000000"],"check_for_group_up":true,"include_messages":true,"include_participants":true}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:45:19 GMT
+server: public-gateway
+roblox-machine-id: 5726e6f1-9c3d-a2bf-ee4d-092c3b8bec9d
+x-envoy-upstream-service-time: 63
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 120, 120;w=60, 120;w=60
+x-ratelimit-remaining: 119
+x-ratelimit-reset: 40
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"conversations":[{"source":"channels","id":"00000000-0000-4000-0000-000000000000","type":"one_to_one","name":"roblox","is_default_name":true,"created_by":1,"participant_user_ids":[2,1],"user_data":{"2":{"id":2,"name":"roblox","display_name":"roblox","combined_name":"roblox","is_verified":false},"1":{"id":1,"name":"roblox","display_name":"roblox","combined_name":"roblox","is_verified":false}},"messages":[{"id":"00000000-0000-4000-0000-000000000000","content":"Selesaikan pemeriksaan usia untuk mulai chat!","sender_user_id":null,"created_at":"2026-10-17T10:45:21.225Z","moderation_type":"moderated","type":"system","replies_to":null,"is_deleted":false,"is_previewable":false,"is_badgeable":false,"visibility":"invalid"}],"unread_message_count":0,"updated_at":"2026-10-17T10:45:21.225Z","created_at":"2026-10-17T10:45:20.225Z","status":"success","moderation_type":"moderated","user_pending_status":"invalid","sort_index":1792233920225,"has_group_up":false,"participant_pending_status":"not_pending","osa_acknowledgement_status":"acknowledged","user_opted_into_chat_messages":"not_applicable"}]}
+
+#### REQUEST ####
+
+POST /group-up/v1/join-or-create-for-channel HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: 6XwVFh9F2vbW
+Content-Length: 166
+Connection: keep-alive
+
+{"leaveExisting":true,"parentChannelId":"00000000-0000-4000-0000-000000000000","partyAttemptId":"00000000-0000-4000-0000-000000000000","squadLocation":"UniversalApp"}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:45:20 GMT
+server: public-gateway
+roblox-machine-id: ef3590aa-2efa-3b8a-e030-e7dec7f8d71d
+x-envoy-upstream-service-time: 300
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 1, 10000;w=60, 1;w=1
+x-ratelimit-remaining: 0
+x-ratelimit-reset: 1
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c161
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"groupUp":{"groupUpId":"00000000-0000-4000-0000-000000000000","initiatorId":1,"createdAtTime":"2026-10-17T10:45:21.135+00:00","updatedAtTime":"2026-10-17T10:45:21.135+00:00","deletedAtTime":null,"parentChannelId":"00000000-0000-4000-0000-000000000000","members":[{"userId":1,"partyVoiceEligible":false,"isInPrivateParty":false}],"invitees":[{"userId":2,"invitedAtTimestampMs":1792233921304.0}],"selfPermissions":{"canSeeRegroupPromptToast":false,"canSeeRegroupJoinButton":false}},"created":true}
+
+#### REQUEST ####
+
+POST /platform-chat-api/v1/get-conversations HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: 6XwVFh9F2vbW
+Content-Length: 172
+Connection: keep-alive
+
+{"include_cards":true,"include_user_data":true,"ids":["00000000-0000-4000-0000-000000000000"],"check_for_group_up":true,"include_messages":true,"include_participants":true}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:45:21 GMT
+server: public-gateway
+roblox-machine-id: 27e19fb1-a176-a7b3-a12e-66acddaf822f
+x-envoy-upstream-service-time: 84
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 120, 120;w=60, 120;w=60
+x-ratelimit-remaining: 118
+x-ratelimit-reset: 39
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"conversations":[{"source":"channels","id":"00000000-0000-4000-0000-000000000000","type":"one_to_one","name":"roblox","is_default_name":true,"created_by":1,"participant_user_ids":[2,1],"user_data":{"2":{"id":2,"name":"roblox","display_name":"roblox","combined_name":"roblox","is_verified":false},"1":{"id":1,"name":"roblox","display_name":"roblox","combined_name":"roblox","is_verified":false}},"messages":[{"id":"00000000-0000-4000-0000-000000000000","content":"Selesaikan pemeriksaan usia untuk mulai chat!","sender_user_id":null,"created_at":"2026-10-17T10:45:22.281Z","moderation_type":"moderated","type":"system","replies_to":null,"is_deleted":false,"is_previewable":false,"is_badgeable":false,"visibility":"invalid"},{"id":"00000000-0000-4000-0000-000000000000","content":null,"sender_user_id":1,"created_at":"2026-10-17T10:45:21.281Z","moderation_type":"moderated","type":"system","replies_to":null,"is_deleted":false,"is_previewable":true,"is_badgeable":true,"cards":[{"components":[{"type":"group_up","data":{"conversation_id":"00000000-0000-4000-0000-000000000000","group_up_id":"00000000-0000-4000-0000-000000000000","participant_count":1,"participant_user_ids":[1],"auth_user_is_participant":true,"is_alive":true,"created_by_user_id":1}}],"alt_text":"roblox started a party"}],"visibility":"visible"}],"unread_message_count":0,"updated_at":"2026-10-17T10:45:22.281Z","created_at":"2026-10-17T10:45:20.225Z","status":"success","moderation_type":"moderated","user_pending_status":"invalid","preview_message":{"id":"00000000-0000-4000-0000-000000000000","content":null,"sender_user_id":1,"created_at":"2026-10-17T10:45:21.281Z","moderation_type":"moderated","type":"system","replies_to":null,"is_deleted":false,"is_previewable":true,"is_badgeable":true,"cards":[{"components":[{"type":"group_up","data":{"conversation_id":"00000000-0000-4000-0000-000000000000","group_up_id":"00000000-0000-4000-0000-000000000000","participant_count":1,"participant_user_ids":[1],"auth_user_is_participant":true,"is_alive":true,"created_by_user_id":1}}],"alt_text":"roblox started a party"}],"visibility":"visible"},"sort_index":1792233921281,"has_group_up":true,"participant_pending_status":"not_pending","osa_acknowledgement_status":"acknowledged","user_opted_into_chat_messages":"not_applicable"}]}
+
+#### REQUEST ####
+
+GET /platform-chat-api/v1/get-conversation-messages?1=4&include_cards=true&conversation_id=00000000-0000-4000-0000-000000000000 HTTP/2.0
+host: apis.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Chat
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:45:21 GMT
+server: public-gateway
+roblox-machine-id: 5d052d41-347e-27af-e09a-349c2e4fbacd
+x-envoy-upstream-service-time: 90
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 120, 120;w=60, 120;w=60
+x-ratelimit-remaining: 119
+x-ratelimit-reset: 39
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c161
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+content-length: 1052
+
+{"messages":[{"id":"00000000-0000-4000-0000-000000000000","content":"Selesaikan pemeriksaan usia untuk mulai chat!","sender_user_id":null,"created_at":"2026-10-17T10:45:22.281Z","moderation_type":"moderated","type":"system","replies_to":null,"is_deleted":false,"is_previewable":false,"is_badgeable":false,"visibility":"invalid"},{"id":"00000000-0000-4000-0000-000000000000","content":null,"sender_user_id":1,"created_at":"2026-10-17T10:45:21.281Z","moderation_type":"moderated","type":"system","replies_to":null,"is_deleted":false,"is_previewable":true,"is_badgeable":true,"cards":[{"components":[{"type":"group_up","data":{"conversation_id":"00000000-0000-4000-0000-000000000000","group_up_id":"00000000-0000-4000-0000-000000000000","participant_count":1,"participant_user_ids":[1],"auth_user_is_participant":true,"is_alive":true,"created_by_user_id":1}}],"alt_text":"roblox started a party"}],"visibility":"visible"}],"next_cursor":"","previous_cursor":"CAIQAiIqcDppZF8yendBQUFhRkpkMXNCeEJBMHdHSjJfY3RLOWFVLXRrcTV5cnpQ"}
+
+#### REQUEST ####
+
+POST /v1/presence/users HTTP/1.1
+Host: presence.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Chat
+X-CSRF-TOKEN: 6XwVFh9F2vbW
+Content-Length: 27
+Connection: keep-alive
+
+{"userIds":["1"]}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 154
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:45:21 GMT
+server: public-gateway
+roblox-machine-id: e12f9b82-2755-288e-314d-e5a30b8894f0
+x-envoy-upstream-service-time: 18
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 60, 60;w=60, 100;w=60
+x-ratelimit-remaining: 59
+x-ratelimit-reset: 38
+x-ingress-proxy: true
+x-roblox-edge: c089
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"userPresences":[{"userPresenceType":1,"lastLocation":"Website","placeId":null,"rootPlaceId":null,"gameId":null,"universeId":null,"userId":10192529506}]}
