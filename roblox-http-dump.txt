@@ -3546,3 +3546,503 @@ report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https
 nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
 
 { "pageEntries": [ { "pageEntry": { "robloxComponent": "ProfileCompletionCardCarousel", "identifier": "de2c95c4-306e-403a-8fd6-afbe5d2e8ee9", "title": "ProfileCompletionCardCarousel", "category": "CardContainer" }, "inputData": { "cardContainer": { "title": "Complete your profile", "dismissText": "Hide for now", "userId": "1", "cards": [ { "robloxComponent": "CompleteFaeProfileCompletionCard", "identifier": "7a224e62-e585-461e-b230-b1dc6e0395e9", "title": "Get an age check", "userId": "1", "description": "This allows you to chat safely. It only takes a moment.", "ctaText": "Unlock chat", "promptId": "7a224e62-e585-461e-b230-b1dc6e0395e9", "promptType": "ProfileCompletionAgeCheck", "entityId": "" } ], "promptId": "de2c95c4-306e-403a-8fd6-afbe5d2e8ee9", "promptType": "ProfileCompletionCardCarousel", "sortId": "", "feedItemKey": "" } } } ], "hydrationData": { "badge": { }, "universe": { }, "creator": { }, "event": { }, "song": { }, "gamePass": { }, "mediaAsset": { }, "socialLink": { }, "gameDeveloperProduct": { }, "gameSubscription": { }, "marketplaceCatalogCategory": { }, "marketplaceAsset": { }, "marketplaceBundle": { }, "marketplaceLook": { }, "catalogSort": { }, "ageRecommendation": { }, "universeUserFollow": { }, "universeUserVote": { }, "userProfile": { }, "universeUserFavorite": { }, "playability": { }, "universeUserFollowLimit": { }, "universeUserVoteFeedbackMetadata": { }, "moment": { }, "community": { }, "communityUserMembership": { }, "userRecommendation": { }, "contact": { } }, "templates": { "profilecompletion-openfae-card2-03-11-2026": { "template": { "card": { "props": { "titleText": { "bindingPath": "title" }, "descriptionText": { "bindingPath": "description" }, "ctaText": { "bindingPath": "cta_text" }, "ctaVariant": { "literal": "SoftEmphasis" }, "ctaSize": { "literal": "Medium" }, "ctaOnActivated": { "value": { "openFacialAgeEstimationAction": { "actionType": "ACTION_TYPE_OPEN_FACIAL_AGE_ESTIMATION", "actionParams": { "userId": { "bindingPath": "user_id" }, "source": { "literal": "ProfilePlatform" } } } } }, "image": { "literal": "rbxassetid://117704403168525" } }, "shared": { "componentType": "UI_COMPONENT_TYPE_CARD", "data": [ ], "analyticsData": { "id": { "literal": "open-facial-age-estimation-card" } } } } }, "robloxComponent": "CompleteFaeProfileCompletionCard" }, "profilecompletion-cardcarousel2-03-12-2026": { "template": { "collectionCarousel": { "props": { "collectionItemSize": { "literal": "Small" }, "headerComponent": { "literal": { "inputs": { "user_id": { "bindingPath": "user_id" }, "title": { "bindingPath": "title" }, "dismiss_text": { "bindingPath": "dismiss_text" }, "prompt_id": { "bindingPath": "prompt_id" }, "prompt_type": { "bindingPath": "prompt_type" } }, "robloxComponent": "ProfileCompletionCardCarouselHeader" } }, "items": { "arrayMap": { "bindingPath": "cards", "robloxComponent": "DefaultCard", "inputs": { } } }, "itemHeightMode": { "literal": "Uniform" } }, "shared": { "componentType": "UI_COMPONENT_TYPE_COLLECTION_CAROUSEL", "data": [ ], "analyticsData": { "collectionId": { "literal": "profile-completion-carousel" }, "contentType": { "literal": "promptCard" } } } } }, "robloxComponent": "ProfileCompletionCardCarousel" }, "profilecompletion-cardcarousel-sectionheader-03-10-2026": { "template": { "sectionHeader": { "props": { "layoutOrder": { "literal": 1 }, "iconComponent": { "literal": { "inputs": { "user_id": { "bindingPath": "user_id" }, "prompt_id": { "bindingPath": "prompt_id" }, "prompt_type": { "bindingPath": "prompt_type" }, "dismiss_text": { "bindingPath": "dismiss_text" } }, "robloxComponent": "ProfileCompletionCardCarouselHeaderOverflowMenu" } }, "titleText": { "bindingPath": "title" } }, "shared": { "componentType": "UI_COMPONENT_TYPE_SECTION_HEADER", "data": [ ], "analyticsData": { } } } }, "robloxComponent": "ProfileCompletionCardCarouselHeader" }, "profilecompletion-cardcarouselheader-overflowmenu-03-18-2026": { "template": { "overflowMenu": { "props": { "items": { "literal": { "array": [ { "literal": { "id": { "literal": "hideProfileCompletion" }, "text": { "bindingPath": "dismiss_text" }, "onActivated": { "value": { "hideProfileCompletionAction": { "actionType": "ACTION_TYPE_HIDE_PROFILE_COMPLETION", "actionParams": { "userId": { "bindingPath": "user_id" }, "promptId": { "bindingPath": "prompt_id" }, "source": { "literal": "ProfilePlatform" }, "promptType": { "bindingPath": "prompt_type" } } } } } } } ] } }, "buttonSize": { "literal": "Small" } }, "shared": { "componentType": "UI_COMPONENT_TYPE_OVERFLOW_MENU", "data": [ ], "analyticsData": { "id": { "literal": "profile-completion-overflow-menu" } } } } }, "robloxComponent": "ProfileCompletionCardCarouselHeaderOverflowMenu" }, "default-card-02-23-2026": { "template": { "card": { "props": { "titleText": { "bindingPath": "title" }, "descriptionText": { "bindingPath": "description" }, "ctaText": { "bindingPath": "cta_text" }, "ctaVariant": { "bindingPath": "cta_variant" }, "ctaSize": { "bindingPath": "cta_size" }, "image": { "bindingPath": "image" } }, "shared": { "componentType": "UI_COMPONENT_TYPE_CARD", "data": [ ], "analyticsData": { } } } }, "robloxComponent": "DefaultCard" } }, "customPrompts": { }, "localizedLiterals": { } }
+
+#### REQUEST ####
+
+GET /recipe?maxTargets=15 HTTP/2.0
+host: lms.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json
+vary: Origin, Accept-Encoding
+date: Sat, 17 Oct 2026 08:45:47 GMT
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 23
+server: public-gateway
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 1000, 1000;w=60, 1000;w=60
+x-ratelimit-remaining: 999
+x-ratelimit-reset: 13
+x-ingress-proxy: true
+x-roblox-edge: c161
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+content-length: 1343
+
+{"targets":[{"name":"gcp_png","target":"https://sc0gcp.rbxcdn.com/test-50kb.png"},{"name":"lga4_1px","target":"https://lga4-128-116-30-3.roblox.com/_/_/1px.gif"},{"name":"dfw2_1px","target":"https://dfw2-128-116-95-3.roblox.com/_/_/1px.gif"},{"name":"ord2_1px","target":"https://ord2-128-116-48-3.roblox.com/_/_/1px.gif"},{"name":"bom2_1px","target":"https://bom2-128-116-47-3.roblox.com/_/_/1px.gif"},{"name":"dfw4_1px","target":"https://dfw4-128-116-14-3.roblox.com/_/_/1px.gif"},{"name":"rbx_png","target":"https://contentdelivery.roblox.com/test-50kb"},{"name":"fra2_1px","target":"https://fra2-128-116-5-3.roblox.com/_/_/1px.gif"},{"name":"lax2_1px","target":"https://lax2-128-116-116-3.roblox.com/_/_/1px.gif"},{"name":"atl4_1px","target":"https://atl4-128-116-2-3.roblox.com/_/_/1px.gif"},{"name":"sea1_1px","target":"https://sea1-128-116-115-3.roblox.com/_/_/1px.gif"},{"name":"sin2_1px","target":"https://sin2-128-116-97-3.roblox.com/_/_/1px.gif"},{"name":"mia4_1px","target":"https://mia4-128-116-45-3.roblox.com/_/_/1px.gif"},{"name":"rov1_1px","target":"https://af1201f0fe3eb4416a40f53b2a407c2c0-mia2.rover.na.roblox.net/_/_/1px.gif"},{"name":"syd1_1px","target":"https://syd1-128-116-51-3.roblox.com/_/_/1px.gif"}],"name":"http_get_pop_targets","type":"http_get","pulses":1,"pulse_delay":0,"pulse_timeout":5000,"next":0,"ctx":{}}
+
+#### REQUEST ####
+
+POST /user-heartbeats-api/action-report HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 147
+Connection: keep-alive
+
+{"sessionInfo":{"sessionId":"00000000-0000-0000-0000-000000000000"},"clientSideTimestampEpochMs":1792226748000,"actionInfo":{"loginActionInfo":{}}}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:47 GMT
+server: public-gateway
+roblox-machine-id: 13dc3cbd-54eb-7c14-47ba-cf9e9801e54f
+x-envoy-upstream-service-time: 1
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 10, 10;w=1, 10;w=60
+x-ratelimit-remaining: 9
+x-ratelimit-reset: 1
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"sessionId":"00000000-0000-0000-0000-000000000000","status":200,"message":""}
+
+#### REQUEST ####
+
+POST /user-heartbeats-api/pulse HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Startup
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 194
+Connection: keep-alive
+
+{"sessionInfo":{"sessionId":"00000000-0000-0000-0000-000000000000"},"clientSideTimestampEpochMs":1792226748000,"locationInfo":{"universalAppLocationInfo":{"activeState":1,"pageName":"Startup"}}}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:46 GMT
+server: public-gateway
+roblox-machine-id: 0aecee5a-74f5-1617-e1df-fcf112ee187a
+x-envoy-upstream-service-time: 0
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 10, 10;w=1, 10;w=60
+x-ratelimit-remaining: 9
+x-ratelimit-reset: 1
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"sessionId":"00000000-0000-0000-0000-000000000000","status":200,"message":""}
+
+#### REQUEST ####
+
+POST /attribution/v1/events/post-authentication HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Startup
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 39
+Connection: keep-alive
+
+{"eventType":"Reopen","appsflyerId":""}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+date: Sat, 17 Oct 2026 08:45:47 GMT
+server: public-gateway
+content-length: 0
+roblox-machine-id: 92d3cbed-bbab-a38b-280e-9e5c7b9ebfd8
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 3
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 1000, 10000;w=60, 1000;w=60
+x-ratelimit-remaining: 999
+x-ratelimit-reset: 12
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+#### REQUEST ####
+
+POST /v1/batch HTTP/1.1
+Host: thumbnails.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Requester: Client
+Content-Type: application/json; charset=utf-8
+traceparent: Hidden
+PlayerCount: 1
+IsFtsThumbAccepted: true
+rbx-session-data: Startup
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 258
+Connection: keep-alive
+
+[
+{"requestId":"type=AvatarHeadShot&id=0&w=48&h=48&filters=circular&includebackground=true&includeprofileframe=true","targetId":0,"type":"AvatarHeadShot","size":"48x48","format":"webp","isCircular":true,"includeBackground":true,"includeProfileFrame":true}
+]
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:48 GMT
+server: public-gateway
+cache-control: no-cache
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000
+strict-transport-security: max-age=3600
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 13214fc3-18d0-02aa-a2e4-0b7d4138c28a
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 2
+x-terms-message: Terms apply https://rblx.co/TOU.
+x-ratelimit-limit: 25, 25;w=1, 10000;w=60
+x-ratelimit-remaining: 24
+x-ratelimit-reset: 1
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"data":[{"requestId":"type=AvatarHeadShot&id=0&w=48&h=48&filters=circular&includebackground=true&includeprofileframe=true","errorCode":4,"errorMessage":"The requested Ids are invalid, of an invalid type or missing.","targetId":0,"state":"Error","imageUrl":null,"version":null}]}
+
+#### REQUEST ####
+
+GET /v1/locales/user-localization-locus-supported-locales HTTP/2.0
+host: locale.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+accept-language: en-id
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:48 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: f9953dc3-c91d-bf5f-78c5-e0bc84227f66
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 2
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 12
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+content-length: 635
+
+{"signupAndLogin":{"id":4,"locale":"id_id","name":"Indonesian","nativeName":"Bahasa Indonesia","language":{"id":64,"name":"Indonesian","nativeName":"Indonesian","languageCode":"id","isRightToLeft":false}},"generalExperience":{"id":4,"locale":"id_id","name":"Indonesian","nativeName":"Bahasa Indonesia","language":{"id":64,"name":"Indonesian","nativeName":"Indonesian","languageCode":"id","isRightToLeft":false}},"ugc":{"id":4,"locale":"id_id","name":"Indonesian","nativeName":"Bahasa Indonesia","language":{"id":64,"name":"Indonesian","nativeName":"Indonesian","languageCode":"id","isRightToLeft":false}},"showRobloxTranslations":true}
+
+#### REQUEST ####
+
+POST /v1/batch HTTP/1.1
+Host: thumbnails.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Requester: Client
+Content-Type: application/json; charset=utf-8
+traceparent: Hidden
+PlayerCount: 1
+IsFtsThumbAccepted: true
+rbx-session-data: Startup
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 278
+Connection: keep-alive
+
+[
+{"requestId":"type=AvatarHeadShot&id=1&w=48&h=48&filters=circular&includebackground=true&includeprofileframe=true","targetId":1,"type":"AvatarHeadShot","size":"48x48","format":"webp","isCircular":true,"includeBackground":true,"includeProfileFrame":true}
+]
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:48 GMT
+server: public-gateway
+cache-control: no-cache
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000
+strict-transport-security: max-age=3600
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 13214fc3-18d0-02aa-a2e4-0b7d4138c28a
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 2
+x-terms-message: Terms apply https://rblx.co/TOU.
+x-ratelimit-limit: 25, 25;w=1, 10000;w=60
+x-ratelimit-remaining: 23
+x-ratelimit-reset: 1
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"data":[{"requestId":"type=AvatarHeadShot&id=1&w=48&h=48&filters=circular&includebackground=true&includeprofileframe=true","errorCode":0,"errorMessage":"","targetId":1,"state":"Completed","imageUrl":"https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5F01B14D851F9FE6B40322FC44A069A6-Png/48/48/AvatarHeadshot/Webp/isCircular","version":"TN3"}]}
+
+#### REQUEST ####
+
+GET /v1/themes/User/1 HTTP/2.0
+host: accountsettings.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-length: 21
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:48 GMT
+server: public-gateway
+cache-control: no-cache
+strict-transport-security: max-age=31536000
+strict-transport-security: max-age=3600
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 817fd232-2b1d-ec44-e477-3a6c31ecdb2a
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 2
+x-terms-message: Terms apply https://rblx.co/TOU.
+x-ratelimit-limit: 360, 10000;w=60, 360;w=60
+x-ratelimit-remaining: 359
+x-ratelimit-reset: 12
+x-ingress-proxy: true
+x-roblox-edge: c161
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"themeType":"Light"}
+
+#### REQUEST ####
+
+GET /v1/users/authenticated/roles HTTP/2.0
+host: users.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:48 GMT
+server: public-gateway
+cache-control: no-cache
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 59c9c3c2-1c5b-0e7c-a7d5-d4dd40984c28
+x-envoy-upstream-service-time: 1
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 200, 230;w=60, 200;w=60
+x-ratelimit-remaining: 199
+x-ratelimit-reset: 12
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+content-length: 12
+
+{"roles":[]}
+
+#### REQUEST ####
+
+GET /v1/games/icons?universeIds=13058&format=png&size=150x150 HTTP/2
+Host: thumbnails.roblox.com
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Accept: application/json
+Traceparent: Hidden
+Playercount: 1
+Requester: Client
+Isftsthumbaccepted: true
+Rbx-Session-Data: Startup
+
+#### RESPONSE ####
+
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 17 Oct 2026 09:10:48 GMT
+Server: public-gateway
+Cache-Control: no-cache
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=3600
+X-Frame-Options: SAMEORIGIN
+Roblox-Machine-Id: 13214fc3-18d0-02aa-a2e4-0b7d4138c28a
+X-Envoy-Attempt-Count: 1
+X-Envoy-Upstream-Service-Time: 11
+X-Terms-Message: Terms apply https://rblx.co/TOU.
+X-Ratelimit-Limit: 1500, 10000;w=60, 1500;w=60
+X-Ratelimit-Remaining: 1497
+X-Ratelimit-Reset: 12
+X-Ingress-Proxy: true
+X-Roblox-Edge: c118
+Report-To: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+Nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"data":[{"targetId":13058,"state":"Completed","imageUrl":"https://tr.rbxcdn.com/180DAY-672284ae50f6bece92ce3c92c1ea6067/150/150/Image/Png/noFilter","version":"TN3"}]}
+
+#### REQUEST ####
+
+GET /platform-chat-api/v1/metadata HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:49 GMT
+server: public-gateway
+cache-control: private, max-age=120
+roblox-machine-id: d1bf49bf-b28b-db94-6ca9-c147ede8a382
+x-envoy-upstream-service-time: 8
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 120, 120;w=60, 120;w=60
+x-ratelimit-remaining: 119
+x-ratelimit-reset: 11
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"isChatEnabled":true,"isChatEnabledByPrivacySetting":"enabled","isGroupChatEnabledByPrivacySetting":"enabled","isChatEnabledByGlobalRules":"enabled","languageForPrivacySettingUnavailable":"Chat is currently unavailable","maxConversationTitleLength":150,"numberOfMembersForPartyChrome":6,"partyChromeDisplayTimeStampInterval":300000,"signalRDisconnectionResponseInMilliseconds":3000,"typingInChatFromSenderThrottleMs":5000,"typingInChatForReceiverExpirationMs":8000,"relativeValueToRecordUiPerformance":0.0,"isChatDataFromLocalStorageEnabled":false,"chatDataFromLocalStorageExpirationSeconds":30,"isUsingCacheToLoadFriendsInfoEnabled":false,"cachedDataFromLocalStorageExpirationMS":30000,"senderTypesForUnknownMessageTypeError":["User"],"isInvalidMessageTypeFallbackEnabled":false,"isRespectingMessageTypeEnabled":true,"validMessageTypesWhiteList":["PlainText","Link"],"shouldRespectConversationHasUnreadMessageToMarkAsRead":true,"isAliasChatForClientSideEnabled":true,"isPlayTogetherForGameCardsEnabled":true,"isRoactChatEnabled":false,"webChatEventSampleRate":100,"isTrustedCommsWebEnabled":true,"isWebChatSettingsMigrationEnabled":true,"isWebChatRegionalityEnabled":false,"isChatVisible":false,"isChatUserMessagesEnabled":false}
+
+#### REQUEST ####
+
+GET /user-agreements/v1/agreements-resolution/Web HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: RBXEventTrackerV2Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 2
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:49 GMT
+server: public-gateway
+roblox-machine-id: cced42e8-f18d-0f51-9eb4-2072239c28f7
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 16
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 4000;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 11
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+[]
