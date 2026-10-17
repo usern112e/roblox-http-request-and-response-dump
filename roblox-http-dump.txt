@@ -4567,3 +4567,587 @@ report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https
 nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
 
 {"shouldSurfaceReminder":false,"interventionId":"","contentVariant":"","policyViolation":"","reminderNumber":0,"experimentVariant":"","nudgeType":""}
+
+#### REQUEST ####
+
+GET /v2/ota-version/WindowsPlayer?version=0.743.0.7431134&name=app-patch-universal-app HTTP/1.1
+Host: clientsettingscdn.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Server: public-gateway
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 1a34a3b5-74e8-1497-04d1-eb1bca9a2079
+x-envoy-upstream-service-time: 1
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+X-RateLimit-Limit: 1500, 1500;w=1
+X-RateLimit-Remaining: 1403
+X-RateLimit-Reset: 1
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+Content-Length: 2
+Cache-Control: no-cache
+Expires: Sat, 17 Oct 2026 08:45:51 GMT
+Date: Sat, 17 Oct 2026 08:45:51 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Access-Control-Expose-Headers: Rbx-Cdn-Provider,Akamai-Request-BC
+Rbx-Cdn-Provider: ak
+Access-Control-Allow-Methods: GET,OPTIONS
+Timing-Allow-Origin: *
+Access-Control-Allow-Origin: *
+
+[]
+
+#### REQUEST ####
+
+GET /v2/ota-version/WindowsPlayer?version=0.743.0.7431134&name=app-patch-in-experience HTTP/1.1
+Host: clientsettingscdn.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Server: public-gateway
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 8a9aa1a6-4250-9385-65bb-dc9e39ba1b97
+x-envoy-upstream-service-time: 2
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+X-RateLimit-Limit: 1500, 1500;w=1
+X-RateLimit-Remaining: 1490
+X-RateLimit-Reset: 1
+x-ingress-proxy: true
+x-roblox-edge: c161
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+Content-Length: 2
+Cache-Control: no-cache
+Expires: Sat, 17 Oct 2026 08:45:51 GMT
+Date: Sat, 17 Oct 2026 08:45:51 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Access-Control-Expose-Headers: Rbx-Cdn-Provider,Akamai-Request-BC
+Rbx-Cdn-Provider: ak
+Access-Control-Allow-Methods: GET,OPTIONS
+Timing-Allow-Origin: *
+Access-Control-Allow-Origin: *
+
+[]
+
+#### REQUEST ####
+
+POST /modals-api/v1/prompts/impression HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 86
+Connection: keep-alive
+
+{"promptId":"c92af3a3-ee40-45dd-972f-1772a58aa06d","promptType":"HomepageBannerEmpty"}
+
+#### RESPONSE ####
+
+HTTP/1.1 204 No Content
+date: Sat, 17 Oct 2026 08:45:51 GMT
+server: public-gateway
+roblox-machine-id: 4f7a424e-42c2-ba9c-27ec-40afd90b7d12
+x-envoy-upstream-service-time: 3
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 20, 100;w=60, 20;w=60
+x-ratelimit-remaining: 19
+x-ratelimit-reset: 9
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+#### REQUEST ####
+
+POST /user-profile-api/v1/user/profiles/get-profiles HTTP/1.1
+Host: apis.roblox.com
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Accept: application/json
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 137
+Connection: keep-alive
+
+{"UserIds":["1"],"Fields":["platformProfileId","names.combinedName","names.username","names.platformName","names.displayName"]}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 132
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+roblox-machine-id: de417b3f-fce5-9000-2218-2cc79d883aff
+x-envoy-upstream-service-time: 3
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 200, 10000;w=60, 200;w=60
+x-ratelimit-remaining: 199
+x-ratelimit-reset: 9
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"profileDetails":[{"userId":1,"names":{"username":"roblox","displayName":"roblox","combinedName":"roblox"}}],"errors":[]}
+
+#### REQUEST ####
+
+POST /v1/presence/users HTTP/1.1
+Host: presence.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 25
+Connection: keep-alive
+
+{"userIds":[1]}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 154
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:51 GMT
+server: public-gateway
+roblox-machine-id: 98511c3b-128e-ee94-dafb-cd04ea1c6de9
+x-envoy-upstream-service-time: 5
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 60, 60;w=60, 100;w=60
+x-ratelimit-remaining: 59
+x-ratelimit-reset: 9
+x-ingress-proxy: true
+x-roblox-edge: c161
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"userPresences":[{"userPresenceType":0,"lastLocation":"Website","placeId":null,"rootPlaceId":null,"gameId":null,"universeId":null,"userId":1}]}
+
+#### REQUEST ####
+
+POST /v1/user/get-tags HTTP/1.1
+Host: contacts.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Requester: Client
+Content-Type: application/json
+traceparent: Hidden
+PlayerCount: 1
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 31
+Connection: keep-alive
+
+{"targetUserIds":[1]}
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-length: 2
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:51 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 46fbf1af-19c5-5fad-6aea-e87cfe075e31
+x-envoy-upstream-service-time: 12
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 20, 1000;w=60, 20;w=60
+x-ratelimit-remaining: 19
+x-ratelimit-reset: 8
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+[]
+
+#### REQUEST ####
+
+GET /v1/user/1/multiget-are-trusted-friends?userids=2 HTTP/2.0
+host: friends.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Home
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-length: 23
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:52 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: bc90e3cf-c0eb-1055-9127-2b485a6ad60e
+x-envoy-upstream-service-time: 9
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 1000;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 8
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"trustedFriendsId":[]}
+
+#### REQUEST ####
+
+GET /v1/settings/verify/show-age-verification-overlay/2471084 HTTP/2.0
+host: voice.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Home
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:54 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: c9f43935-3040-41d6-4be3-501bc59fcd6d
+x-envoy-upstream-service-time: 13
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 60, 10000;w=60, 60;w=60
+x-ratelimit-remaining: 59
+x-ratelimit-reset: 6
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+content-length: 1042
+
+{"showAgeVerificationOverlay":false,"inExperienceFaeUpsell":"Enabled","elegibleToSeeVoiceUpsell":false,"showVoiceOptInOverlay":false,"showVoiceInExperienceUpsell":false,"showVoiceInExperienceUpsellVariant":"","showAvatarVideoOptInOverlay":false,"showDataConsentToast":false,"showJoinVoiceUpsellTooltip":false,"showM3LikelySpeakingBubbles":false,"universePlaceVoiceEnabledSettings":{"isUniverseEnabledForVoice":true,"isUniverseEnabledForAvatarVideo":false,"isChatGroupsApiEnabled":false},"voiceSettings":{"isVoiceEnabled":false,"isUserOptIn":false,"isUserEligible":false,"isBanned":false,"banReason":0,"bannedUntil":null,"canVerifyAgeForVoice":true,"isVerifiedForVoice":false,"denialReason":3,"isOptInDisabled":false,"hasEverOpted":false,"isAvatarVideoEnabled":false,"isAvatarVideoOptIn":false,"isAvatarVideoOptInDisabled":false,"isAvatarVideoEligible":true,"hasEverOptedAvatarVideo":false,"userHasAvatarCameraAlwaysAvailable":false,"canVerifyPhoneForVoice":false,"seamlessVoiceStatus":0,"allowVoiceDataUsage":false,"seamlessVoiceVariant":""}}
+
+#### REQUEST ####
+
+GET /subscriptions/v2/referrals?Status=1&PageSize=1 HTTP/1.1
+Host: apis.roblox.com
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Accept: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:06:58 GMT
+server: public-gateway
+content-length: 50
+roblox-machine-id: 3b3380c7-2b30-d320-38f7-32332542835d
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 11
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 1000;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 1
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"referrals":[],"nextCursor":null,"hasMore":false}
+
+#### REQUEST ####
+
+GET /v2/passwords/current-status HTTP/2.0
+host: auth.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Home
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+date: Sat, 17 Oct 2026 10:06:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 14
+server: cloudflare
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 3b3abd77-6588-ef37-43d8-4e056f02028a
+x-envoy-upstream-service-time: 18
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 1000, 1000;w=60, 1000;w=60
+x-ratelimit-remaining: 999
+x-ratelimit-reset: 1
+x-ingress-proxy: true
+x-roblox-edge: c089
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+cf-cache-status: DYNAMIC
+set-cookie: Hidden
+cf-ray: a4be7e64ecc1e60e-SIN
+
+{"valid":true}
+
+#### REQUEST ####
+
+GET /access-management/v1/feature-access?featureNames=HasInExperienceRobloxSubscriptionBenefits&nameSpace=subscriptions%2FPlusSubscription&extraParameters=W3sibmFtZSI6InJlYWRGcmVzaERhdGEiLCJ0eXBlIjoiQm9vbGVhbiIsInZhbHVlIjp0cnVlfV0%3D HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:10:41 GMT
+server: public-gateway
+roblox-machine-id: a25d07d7-7149-31e9-7c92-7d5f9436b040
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 7
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 10000, 10000;w=60, 10000;w=60
+x-ratelimit-remaining: 9994
+x-ratelimit-reset: 18
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"features":[{"featureName":"HasInExperienceRobloxSubscriptionBenefits","access":"Actionable","recourse":null,"recourses":[{"action":"Subscription"}],"v2Recourses":[[{"action":"Subscription"}]],"shouldPrompt":true}]}
+
+#### REQUEST ####
+
+GET /challenge-dialog-service/v1/dialogs HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidde
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:10:43 GMT
+content-length: 14
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 8
+server: public-gateway
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 1000, 10000;w=60, 1000;w=60
+x-ratelimit-remaining: 999
+x-ratelimit-reset: 17
+x-ingress-proxy: true
+x-roblox-edge: c089
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"dialogs":[]}
+
+#### REQUEST ####
+
+GET /charts-api/v1/get-sorts-metadata?sessionId=00000000-0000-0000-0000-000000000000 HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:12:34 GMT
+server: public-gateway
+roblox-machine-id: 972c5287-8e7b-8113-520a-825bef32f9a8
+x-debug-path: /v1/get-sorts-metadata
+x-debug-pathbase: 
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 24
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 60, 60;w=60, 60;w=60
+x-ratelimit-remaining: 59
+x-ratelimit-reset: 26
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"sortMetadata":[{"gameSetTypeId":23,"gameSetTargetId":691,"primarySortId":23,"secondarySortId":691,"sortId":"top-trending","sortDisplayName":"Tren Teratas","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":692,"primarySortId":23,"secondarySortId":692,"sortId":"up-and-coming","sortDisplayName":"Yang akan Datang","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual teratas yang dipublikasikan dalam 28 hari terakhir, diurutkan berdasarkan pertumbuhan pengguna.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":671,"primarySortId":23,"secondarySortId":671,"sortId":"top-playing-now","sortDisplayName":"Paling Banyak Dimainkan Sekarang","subtitle":"Hasil untuk semua perangkat dan lokasi","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual teratas diurutkan berdasarkan jumlah pengguna serentak.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":222,"primarySortId":23,"secondarySortId":222,"sortId":"fun-with-friends","sortDisplayName":"Lebih Seru Bersama Teman","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual yang memiliki minimal 5.000 pengguna harian, diurutkan berdasarkan proporsi waktu yang dihabiskan pengguna sebagai grup teman. Pengalaman virtual ini memiliki minimal 5.000 pengguna harian, termasuk dalam 10% teratas pengguna aktif harian, atau termasuk dalam 30 pengalaman virtual yang paling banyak dimainkan. Urutan pengalaman virtual ini bergantung pada filter perangkat dan lokasi yang diterapkan ke halaman ini.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":237,"primarySortId":23,"secondarySortId":237,"sortId":"top-revisited","sortDisplayName":"Dikunjungi Kembali yang Teratas","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual yang diurutkan berdasarkan proporsi pengguna yang kembali setelah 1 minggu. Pengalaman virtual ini memiliki minimal 5.000 pengguna harian, termasuk dalam 10% teratas pengguna aktif harian, atau termasuk dalam 30 pengalaman virtual yang paling banyak dimainkan. Urutan pengalaman virtual ini bergantung pada filter perangkat dan lokasi yang diterapkan ke halaman ini.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":241,"primarySortId":23,"secondarySortId":241,"sortId":"top-earning","sortDisplayName":"Pendapatan Teratas","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual yang diurutkan berdasarkan jumlah total pembelanjaan Robux selama 7 hari terakhir. Pengalaman virtual ini memiliki minimal 5.000 pengguna harian, termasuk dalam 10% teratas pengguna aktif harian, atau termasuk dalam 30 pengalaman virtual yang paling banyak dimainkan. Urutan pengalaman virtual ini bergantung pada filter perangkat dan lokasi yang diterapkan ke halaman ini.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":669,"primarySortId":23,"secondarySortId":669,"sortId":"top-paid-access","sortDisplayName":"Akses Berbayar Teratas","subtitle":"Hasil untuk semua perangkat dan lokasi","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual dengan akses berbayar diurutkan berdasarkan pendapatan harian.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":670,"primarySortId":23,"secondarySortId":670,"sortId":"top-rated","sortDisplayName":"Peringkat Teratas","subtitle":"Hasil untuk semua perangkat dan lokasi","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual dengan setidaknya 5000 pengguna harian, yang memiliki jumlah dan proporsi suka yang tinggi.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":223,"primarySortId":23,"secondarySortId":223,"sortId":"most-popular","sortDisplayName":"Terpopuler","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual teratas yang diurutkan berdasarkan jumlah pengguna harian. Pengalaman virtual ini memiliki minimal 5.000 pengguna harian, termasuk dalam 10% teratas pengguna aktif harian, atau termasuk dalam 30 pengalaman virtual yang paling banyak dimainkan. Urutan pengalaman virtual ini bergantung pada filter perangkat dan lokasi yang diterapkan ke halaman ini.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":672,"primarySortId":23,"secondarySortId":672,"sortId":"music-top-100","sortDisplayName":"Musik 100 Teratas","subtitle":"Hasil untuk semua perangkat dan lokasi","contentType":"Songs","topicLayoutData":{"infoText":"Musik terpopuler di Roblox dalam 7 hari terakhir."}},{"gameSetTypeId":23,"gameSetTargetId":668,"primarySortId":23,"secondarySortId":668,"sortId":"trending-music-experiences","sortDisplayName":"Pengalaman Virtual Musik Populer","subtitle":"Hasil untuk semua perangkat dan lokasi","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual musik yang memiliki setidaknya 2.500 pengguna harian dan yang relatif paling meningkat dalam waktu yang dihabiskan pengguna selama 2 minggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":682,"primarySortId":23,"secondarySortId":682,"sortId":"trending-in-rpg","sortDisplayName":"RPG yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual RPG teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":688,"primarySortId":23,"secondarySortId":688,"sortId":"trending-in-sports-and-racing","sortDisplayName":"Olahraga & Balapan yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Olahraga dan Balapan teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":684,"primarySortId":23,"secondarySortId":684,"sortId":"trending-in-shooter","sortDisplayName":"Tembak-Menembak yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Tembak-Menembak teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":676,"primarySortId":23,"secondarySortId":676,"sortId":"trending-in-action","sortDisplayName":"Action yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Action teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":677,"primarySortId":23,"secondarySortId":677,"sortId":"trending-in-adventure","sortDisplayName":"Petualangan yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Petualangan teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":678,"primarySortId":23,"secondarySortId":678,"sortId":"trending-in-entertainment","sortDisplayName":"Hiburan yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Hiburan teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":679,"primarySortId":23,"secondarySortId":679,"sortId":"trending-in-obby-and-platformer","sortDisplayName":"Obby & Platformer yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Obby dan Platform teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":680,"primarySortId":23,"secondarySortId":680,"sortId":"trending-in-party-and-casual","sortDisplayName":"Pesta & Kasual yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Pesta dan Kasual teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":681,"primarySortId":23,"secondarySortId":681,"sortId":"trending-in-puzzle","sortDisplayName":"Puzzle yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Puzzle teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":683,"primarySortId":23,"secondarySortId":683,"sortId":"trending-in-roleplay-and-avatar-sim","sortDisplayName":"Role Play & Simulasi Avatar yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Role Play dan Simulasi Avatar teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":685,"primarySortId":23,"secondarySortId":685,"sortId":"trending-in-shopping","sortDisplayName":"Shopping yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Shopping teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":686,"primarySortId":23,"secondarySortId":686,"sortId":"trending-in-simulation","sortDisplayName":"Simulasi yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Simulasi teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":689,"primarySortId":23,"secondarySortId":689,"sortId":"trending-in-strategy","sortDisplayName":"Strategi yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Strategi teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":690,"primarySortId":23,"secondarySortId":690,"sortId":"trending-in-survival","sortDisplayName":"Survival yang Sedang Tren","subtitle":"","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual Survival teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"}},{"gameSetTypeId":23,"gameSetTargetId":218,"primarySortId":23,"secondarySortId":218,"sortId":"learning-and-explore","sortDisplayName":"Pelajari dan Jelajahi","subtitle":"Hasil untuk semua perangkat dan lokasi","contentType":"Games","topicLayoutData":{"infoText":"Pengalaman virtual dengan elemen belajar yang menginspirasi kreativitas dan pemikiran kritismu.","playButtonStyle":"Disabled"}}]}
+
+#### REQUEST ####
+
+GET /charts-api/v1/get-sort-content?sortId=top-trending&sessionId=A2BBDC86-7265-4DBF-BC67-0029593C42FD HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 10:14:32 GMT
+server: public-gateway
+roblox-machine-id: e96f808e-328f-9cab-b281-873176efe8fe
+x-debug-path: /v1/get-sort-content
+x-debug-pathbase: 
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 91
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 50, 50;w=60, 50;w=60
+x-ratelimit-remaining: 49
+x-ratelimit-reset: 29
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c089
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"contentType":"Games","gameSetTypeId":23,"gameSetTargetId":691,"primarySortId":23,"secondarySortId":691,"sortId":"top-trending","appliedFilters":"device=computer,age=all,country=id","sortDisplayName":"Tren Teratas","topicLayoutData":{"infoText":"Pengalaman virtual teratas dengan peningkatan relatif terbesar dalam jumlah pengguna aktif harian selama seminggu terakhir.","playButtonStyle":"Disabled"},"treatmentType":"Carousel","games":[{"universeId":10765288803,"rootPlaceId":114326934417838,"name":"Pecahkan dan Curi Telur","playerCount":203080,"totalUpVotes":300224,"totalDownVotes":7255,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768866246,"rootPlaceId":121671165541545,"name":"[HALLOWEEN] JALAN YANG SALAH! ","playerCount":12604,"totalUpVotes":6903,"totalDownVotes":740,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10512942223,"rootPlaceId":114574503491412,"name":"[UPD 3] Anime Zero","playerCount":22804,"totalUpVotes":120961,"totalDownVotes":2935,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"RPG"},{"universeId":10767634248,"rootPlaceId":102476635575386,"name":"Simulasi Pemadam Kebakaran \uD83D\uDE92","playerCount":19393,"totalUpVotes":19049,"totalDownVotes":1741,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10685282333,"rootPlaceId":96510596525082,"name":"[\uD83C\uDF83⏳] Bola VS Bola","playerCount":43530,"totalUpVotes":291567,"totalDownVotes":36610,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Pesta & Kasual"},{"universeId":1054526971,"rootPlaceId":2916899287,"name":"Misi Penyelamatan Blackhawk 5","playerCount":28617,"totalUpVotes":621104,"totalDownVotes":67898,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Action","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":1176784616,"rootPlaceId":3260590327,"name":"[\uD83C\uDF19 NIGHT 2] Tower Defense Simulator","playerCount":23034,"totalUpVotes":2082024,"totalDownVotes":129236,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10766578375,"rootPlaceId":134728380684025,"name":"Deretan Belalang [BAB 2] ","playerCount":11430,"totalUpVotes":20287,"totalDownVotes":1603,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Survival","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":7633926880,"rootPlaceId":114234929420007,"name":"[PETA BARU] BloxStrike ","playerCount":19512,"totalUpVotes":633482,"totalDownVotes":35490,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Tembak-Menembak"},{"universeId":10495391267,"rootPlaceId":110527353762049,"name":"Bursa Efek Roblox 2","playerCount":1700,"totalUpVotes":14881,"totalDownVotes":1115,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10765298801,"rootPlaceId":111543903102439,"name":"+1 Lompat Batu","playerCount":46758,"totalUpVotes":70683,"totalDownVotes":2354,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767825538,"rootPlaceId":86537831042007,"name":"Mirage","playerCount":52957,"totalUpVotes":50223,"totalDownVotes":5109,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10767380385,"rootPlaceId":94891079210424,"name":"Jual Kentang Goreng! [Anomali] \uD83C\uDF5F ","playerCount":96596,"totalUpVotes":11045,"totalDownVotes":2486,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Survival"},{"universeId":5578556129,"rootPlaceId":16146832113,"name":"Vanguard: Ulang Tahun ke-2","playerCount":67076,"totalUpVotes":2593787,"totalDownVotes":87966,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10768944292,"rootPlaceId":139780970631001,"name":"[DUNIA BARU \uD83C\uDF83] Peternakan Prasejarah ","playerCount":9279,"totalUpVotes":30611,"totalDownVotes":946,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":4730278139,"rootPlaceId":13621938427,"name":"Petarung Jalanan 6 x UBG\uD83E\uDD4A ","playerCount":12606,"totalUpVotes":1406552,"totalDownVotes":208602,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":10767386157,"rootPlaceId":103363457515322,"name":"Menebang Hutan ","playerCount":56706,"totalUpVotes":10866,"totalDownVotes":947,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767907509,"rootPlaceId":112332082095944,"name":"Mesin Ragdoll ⚙️","playerCount":16095,"totalUpVotes":40294,"totalDownVotes":3121,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10766506199,"rootPlaceId":116802325837172,"name":"7 Hari Menjaga Kucing ","playerCount":23817,"totalUpVotes":21613,"totalDownVotes":7734,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10765490774,"rootPlaceId":85738654635245,"name":"Naik Untuk Telur Hewan \uD83E\uDD5A","playerCount":61599,"totalUpVotes":64411,"totalDownVotes":677,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10769037074,"rootPlaceId":138572313449154,"name":"[\uD83C\uDF83] Panik Reli! [Reli Dua Pemain]\n","playerCount":5112,"totalUpVotes":1723,"totalDownVotes":270,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10768349969,"rootPlaceId":117382010759945,"name":"Kopdes Shift Anomalies","playerCount":3107,"totalUpVotes":295,"totalDownVotes":49,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Survival"},{"universeId":10768728930,"rootPlaceId":91445552037955,"name":"HUSH [Ekstraksi Zombie]","playerCount":3821,"totalUpVotes":6902,"totalDownVotes":382,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Survival","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":8307114974,"rootPlaceId":72920620366355,"name":"[ZOMBIES] Operasi Satu","playerCount":7030,"totalUpVotes":103848,"totalDownVotes":16863,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Tembak-Menembak","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":10673920146,"rootPlaceId":99409088950210,"name":"Bertahan Hidup dari Sejuta Monyet ","playerCount":11055,"totalUpVotes":116415,"totalDownVotes":2879,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10768498581,"rootPlaceId":72169370437173,"name":"Tribes 3v3 [segera??]","playerCount":10778,"totalUpVotes":5438,"totalDownVotes":3048,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Tembak-Menembak","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":8813969120,"rootPlaceId":127089247654125,"name":"Legasi TR","playerCount":6361,"totalUpVotes":102338,"totalDownVotes":3843,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":65241,"rootPlaceId":189707,"name":"Kelangsungan Hidup Bencana Alam","playerCount":5796,"totalUpVotes":4418390,"totalDownVotes":449365,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Survival"},{"universeId":10526853622,"rootPlaceId":132239307080610,"name":"Memancing Dalam \uD83C\uDFA3","playerCount":11697,"totalUpVotes":38173,"totalDownVotes":1154,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768358494,"rootPlaceId":84411136498539,"name":"\uD83D\uDCE6 Tycoon Paket","playerCount":5448,"totalUpVotes":9283,"totalDownVotes":582,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":88070565,"rootPlaceId":185655149,"name":"[\uD83E\uDD87] Selamat datang di Bloxburg ","playerCount":15742,"totalUpVotes":5642949,"totalDownVotes":733876,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Role Play & Simulasi Avatar"},{"universeId":10292064735,"rootPlaceId":97927337336367,"name":"SCROOMS \uD83C\uDF44 ","playerCount":4042,"totalUpVotes":5225,"totalDownVotes":334,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Petualangan"},{"universeId":10744310825,"rootPlaceId":104320321984431,"name":"Cat untuk Menjadi Kaya \uD83C\uDFA8","playerCount":25553,"totalUpVotes":13530,"totalDownVotes":4564,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767886942,"rootPlaceId":91552749822595,"name":"[UPD2\uD83C\uDF83} Run Your Own Farmstead! [v2.0]","playerCount":3223,"totalUpVotes":5335,"totalDownVotes":515,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10740316645,"rootPlaceId":79389059854988,"name":"⛏️ Tambang Anime Saya ","playerCount":11784,"totalUpVotes":100509,"totalDownVotes":1111,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768176407,"rootPlaceId":129425166667725,"name":"[☢️UPD] Hancurkan Kota ","playerCount":13752,"totalUpVotes":15479,"totalDownVotes":1645,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10767582899,"rootPlaceId":101914705206759,"name":"[UPD] \uD83D\uDCF1 Bangun Kekaisaran Telepon ","playerCount":12713,"totalUpVotes":17609,"totalDownVotes":2765,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10371156562,"rootPlaceId":108679402300081,"name":"Pasar Hutan","playerCount":4038,"totalUpVotes":27749,"totalDownVotes":1532,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10197758650,"rootPlaceId":76427490154192,"name":"Royalti! [Kami Panggil Rumah\uD83C\uDF05] Gunung Lonely ","playerCount":2968,"totalUpVotes":15555,"totalDownVotes":1021,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Obby & Platform"},{"universeId":10623237963,"rootPlaceId":96058414266541,"name":"[ \uD83C\uDF83NEW ] MOUNT SENADI ⛅","playerCount":2072,"totalUpVotes":1043,"totalDownVotes":97,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Obby & Platform"},{"universeId":10767567751,"rootPlaceId":94094795358582,"name":"Bunker vs Verity ","playerCount":42644,"totalUpVotes":7188,"totalDownVotes":1542,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10567073221,"rootPlaceId":89765193260788,"name":"[NEW] Langit Besi - Beta ","playerCount":1165,"totalUpVotes":3194,"totalDownVotes":1082,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":6161049307,"rootPlaceId":18172550962,"name":"[⭐2x Keinginan!] Pedang Piksel ","playerCount":10365,"totalUpVotes":765198,"totalDownVotes":25341,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"RPG"},{"universeId":10126644530,"rootPlaceId":104178853788462,"name":"[\uD83D\uDED2] Jalankan Toko Sari-Sari! ","playerCount":14067,"totalUpVotes":21833,"totalDownVotes":539,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767201394,"rootPlaceId":121371815815493,"name":"Scooter Duo \uD83D\uDEF4 [2 Pemain Obby] ","playerCount":1355,"totalUpVotes":4643,"totalDownVotes":143,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Obby & Platform"},{"universeId":10768458048,"rootPlaceId":119263815547952,"name":"Tycoon Komandan Tentara [UPDATE 3]","playerCount":11234,"totalUpVotes":4819,"totalDownVotes":385,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10768084263,"rootPlaceId":75545101555306,"name":"Kembangkan Sel ","playerCount":4583,"totalUpVotes":7622,"totalDownVotes":2549,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767826343,"rootPlaceId":73810139314608,"name":"[UPDATE] Pasukan Udara Zombie ✈️ ","playerCount":5043,"totalUpVotes":10098,"totalDownVotes":1308,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Tembak-Menembak"},{"universeId":10768541373,"rootPlaceId":115532003479675,"name":"Jangan Dipecat di Tempat Kerja! \uD83E\uDDF3 [Event Skin Terbatas! ] ","playerCount":5229,"totalUpVotes":10143,"totalDownVotes":1353,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10629695169,"rootPlaceId":72858262610964,"name":"[\uD83C\uDF89] Simulator Ketuk REBORN ","playerCount":28417,"totalUpVotes":6498,"totalDownVotes":295,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767912502,"rootPlaceId":112241277471797,"name":"Tycoon Perdagangan","playerCount":4752,"totalUpVotes":3459,"totalDownVotes":236,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768943703,"rootPlaceId":137185096993293,"name":"[UPDATE BALAP] Reli Dengan Teman ","playerCount":1242,"totalUpVotes":1670,"totalDownVotes":387,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10767928510,"rootPlaceId":126256942507957,"name":"Silsilah Piksel [DUNGEONS+ HOLLOWEEN+RACE EVO] ","playerCount":9039,"totalUpVotes":69552,"totalDownVotes":877,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"RPG"},{"universeId":10767814721,"rootPlaceId":137626413669175,"name":"⛩️ +1 Evolusi Karate ","playerCount":15072,"totalUpVotes":26424,"totalDownVotes":363,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10767824942,"rootPlaceId":120731410233153,"name":"+1 Peningkatan Level Pembunuh ","playerCount":14701,"totalUpVotes":11861,"totalDownVotes":505,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Simulasi"},{"universeId":10761760907,"rootPlaceId":87604112704506,"name":"Pesanan Sendok Keberuntungan [BETA]","playerCount":21563,"totalUpVotes":3089,"totalDownVotes":1129,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":9710205604,"rootPlaceId":128637868413472,"name":"Kru Bersih \uD83E\uDDF9[Skin Kelas!] ","playerCount":1109,"totalUpVotes":77408,"totalDownVotes":4391,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":2153167977,"rootPlaceId":5976159288,"name":"Formula Apex Racing","playerCount":1722,"totalUpVotes":137354,"totalDownVotes":19288,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":2404080894,"rootPlaceId":6447798030,"name":"Funky Friday (Bhs. Indonesia)","playerCount":2140,"totalUpVotes":1976837,"totalDownVotes":215349,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Action"},{"universeId":10766240516,"rootPlaceId":135911818477576,"name":"[\uD83C\uDF83] Tembak Untuk Telur ","playerCount":5585,"totalUpVotes":9582,"totalDownVotes":1559,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":5580972377,"rootPlaceId":16154918775,"name":"[PERINGKAT] \uD83D\uDCA5 BUCKSHOT ","playerCount":2489,"totalUpVotes":704025,"totalDownVotes":25616,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Strategi"},{"universeId":10739112966,"rootPlaceId":119242658671952,"name":"Pro Sepak Bola Jalanan ","playerCount":9593,"totalUpVotes":11217,"totalDownVotes":2153,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10768026334,"rootPlaceId":97572766830918,"name":"[\uD83C\uDFA8] Sembunyikan Dalam Piksel ","playerCount":4482,"totalUpVotes":4095,"totalDownVotes":2909,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Pesta & Kasual"},{"universeId":5661020014,"rootPlaceId":16426359665,"name":"PARANORMAL [HORROR]","playerCount":392,"totalUpVotes":91057,"totalDownVotes":7440,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Sedang","contentMaturity":"moderate","genreL1":"Petualangan","contentMetadata":{"badgePosition":"ImageTopLeft","badgeAnalyticsId":"lock-badge","badgeIcon":"icons/menu/lock_closed","badgeComponentType":"Pill","badgeType":"Icon"}},{"universeId":10767012496,"rootPlaceId":101880234193261,"name":"[BARU] Turbo Soccer : Beta 1.0 ","playerCount":14282,"totalUpVotes":64013,"totalDownVotes":4911,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10767566226,"rootPlaceId":135675416428111,"name":"Jangan Mencuri Telur Saya!","playerCount":13912,"totalUpVotes":13697,"totalDownVotes":680,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10768928887,"rootPlaceId":80764527426086,"name":"Petualangan Boneka Bunga","playerCount":4606,"totalUpVotes":32896,"totalDownVotes":552,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Petualangan"},{"universeId":7235130477,"rootPlaceId":128248561501148,"name":"Apple iPad Asli ","playerCount":6916,"totalUpVotes":7667,"totalDownVotes":764,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Role Play & Simulasi Avatar"},{"universeId":10766845655,"rootPlaceId":101999883467300,"name":"Ubin Irama Piano ","playerCount":8835,"totalUpVotes":11004,"totalDownVotes":4657,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Hiburan"},{"universeId":10770000716,"rootPlaceId":133281140264583,"name":"Apple iPad Asli","playerCount":8038,"totalUpVotes":9974,"totalDownVotes":826,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Role Play & Simulasi Avatar"},{"universeId":10766691148,"rootPlaceId":104050046639813,"name":"Naik Ikan \uD83D\uDC1F","playerCount":2776,"totalUpVotes":28972,"totalDownVotes":912,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10758735332,"rootPlaceId":139509156816746,"name":"Jadi Penjaga Warung","playerCount":2080,"totalUpVotes":332,"totalDownVotes":73,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10767138232,"rootPlaceId":122840796290491,"name":"[\uD83C\uDF83] Kukirin Life [Pengujian] ","playerCount":37702,"totalUpVotes":7597,"totalDownVotes":1419,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10643877552,"rootPlaceId":126878515897518,"name":"Bangun Klub Sepak Bola!","playerCount":2504,"totalUpVotes":9460,"totalDownVotes":595,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Olahraga & Balapan"},{"universeId":10769876151,"rootPlaceId":102155891663543,"name":"Buat Ramen Untuk Menjadi Kaya (Pengujian)","playerCount":4528,"totalUpVotes":2377,"totalDownVotes":129,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10057403337,"rootPlaceId":84556640895285,"name":"[3H] Arena Deagle ","playerCount":9683,"totalUpVotes":83831,"totalDownVotes":11993,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Tembak-Menembak"},{"universeId":10766135603,"rootPlaceId":102555956950143,"name":"+1 Batu Angkat untuk Harta Karun ","playerCount":8395,"totalUpVotes":18605,"totalDownVotes":718,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10765841403,"rootPlaceId":119925538689885,"name":"Curi atau Mati [UPDATE!]","playerCount":4419,"totalUpVotes":9223,"totalDownVotes":1120,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10758824872,"rootPlaceId":93523763376122,"name":"[☄️] Naik Dino ","playerCount":18624,"totalUpVotes":13448,"totalDownVotes":301,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10767774668,"rootPlaceId":97606215092194,"name":"[\uD83E\uDD5E] Lukis Pancake ","playerCount":13273,"totalUpVotes":3157,"totalDownVotes":971,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Pesta & Kasual"},{"universeId":3317771874,"rootPlaceId":8737899170,"name":"✨ Pet Simulator 99! (Bahasa Indonesia)","playerCount":45967,"totalUpVotes":3071887,"totalDownVotes":170708,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":321778215,"rootPlaceId":735030788,"name":"Royale\uD83C\uDF83High ","playerCount":6932,"totalUpVotes":3265783,"totalDownVotes":535111,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Role Play & Simulasi Avatar"},{"universeId":10769516701,"rootPlaceId":72293101527469,"name":"Kartu Wajah: Pertarungan Rias [⭐UPD] ","playerCount":39057,"totalUpVotes":74786,"totalDownVotes":835,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Role Play & Simulasi Avatar"},{"universeId":9891453691,"rootPlaceId":93466613073564,"name":"[v1.3] FPS Berenskop \uD83C\uDFAF ","playerCount":1502,"totalUpVotes":27209,"totalDownVotes":3993,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Tembak-Menembak"},{"universeId":10768418427,"rootPlaceId":132956556682909,"name":"Tinju Orang Pertama","playerCount":3793,"totalUpVotes":15610,"totalDownVotes":1142,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":10761375767,"rootPlaceId":120252007682677,"name":"Selancar dan Penyelamatan \uD83C\uDF0A\uD83D\uDEDF ","playerCount":10938,"totalUpVotes":98618,"totalDownVotes":2772,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10757247806,"rootPlaceId":103767961452227,"name":"Bangun dan Taklukkan [V0.1] ","playerCount":7810,"totalUpVotes":11401,"totalDownVotes":1929,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Strategi"},{"universeId":10762730780,"rootPlaceId":79148536770575,"name":"Arena Ludo! \uD83C\uDFB2 [2-4 Pemain] ","playerCount":589,"totalUpVotes":753,"totalDownVotes":284,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10767957681,"rootPlaceId":109949693269081,"name":"[UPD 4] Tycoon, tetapi satu dropper ","playerCount":3211,"totalUpVotes":6486,"totalDownVotes":809,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10764839604,"rootPlaceId":88611017452341,"name":"Backflip untuk Hewan!","playerCount":7407,"totalUpVotes":45873,"totalDownVotes":1061,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":9792551117,"rootPlaceId":122093998639862,"name":"Shift Malam Kamar Jenazah","playerCount":2128,"totalUpVotes":46120,"totalDownVotes":18686,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Survival"},{"universeId":10768172922,"rootPlaceId":137151641329864,"name":"RoFront [PvP Dunia] ","playerCount":16550,"totalUpVotes":4827,"totalDownVotes":1191,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10765491459,"rootPlaceId":78710221869926,"name":"Arena Pahlawan Super","playerCount":14436,"totalUpVotes":19914,"totalDownVotes":1959,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":2583564222,"rootPlaceId":6804602922,"name":"[\uD83C\uDF83] Beta Boxing! \uD83E\uDD4A ","playerCount":4570,"totalUpVotes":363778,"totalDownVotes":86035,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Ringan","contentMaturity":"mild","genreL1":"Action"},{"universeId":10768468695,"rootPlaceId":100877684758792,"name":"\uD83D\uDD0CLISTRIK\uD83D\uDD25Tukang Bata ","playerCount":4985,"totalUpVotes":7492,"totalDownVotes":3184,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10762636904,"rootPlaceId":132929771812494,"name":"[\uD83C\uDFC6UPD+X2\uD83D\uDCB0] Pertahanan Menara Kameraman ","playerCount":20154,"totalUpVotes":94862,"totalDownVotes":972,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Strategi"},{"universeId":10765312940,"rootPlaceId":113956654824187,"name":"[\uD83C\uDF0B] Berenang Untuk Telur! ","playerCount":11542,"totalUpVotes":13574,"totalDownVotes":555,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Simulasi"},{"universeId":10421901778,"rootPlaceId":140576663170542,"name":"[CINEMA] Bersihkan Semuanya ","playerCount":6772,"totalUpVotes":49451,"totalDownVotes":2541,"isSponsored":false,"nativeAdData":"","minimumAge":0,"ageRecommendationDisplayName":"Kedewasaan: Minimal","contentMaturity":"minimal","genreL1":"Puzzle"}]}
