@@ -4046,3 +4046,524 @@ report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https
 nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
 
 []
+
+#### REQUEST ####
+
+GET /v2/user-channel?binaryType=WindowsPlayer HTTP/2.0
+host: clientsettings.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:49 GMT
+server: public-gateway
+cache-control: no-cache
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 80ecfc99-4eba-d91c-3a89-7208268a9d8d
+x-envoy-upstream-service-time: 2
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 3000, 100000;w=1, 3000;w=60
+x-ratelimit-remaining: 2999
+x-ratelimit-reset: 11
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+content-length: 22
+
+{"channelName":"LIVE"}
+
+#### REQUEST ####
+
+GET /modals-api/v1/modal?hasDetectedDeepLink=false&entryPoint=HomepageLaunch HTTP/1.1
+Host: apis.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Home
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 204 No Content
+date: Sat, 17 Oct 2026 08:45:49 GMT
+server: public-gateway
+roblox-machine-id: 5e307364-a017-8ef5-dabd-1cfbf4cd8523
+x-envoy-upstream-service-time: 19
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 20, 100;w=60, 20;w=60
+x-ratelimit-remaining: 19
+x-ratelimit-reset: 10
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+#### REQUEST ####
+
+GET /v1/users/1/friends?userSort=StatusFrequents HTTP/2.0
+host: friends.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+requester: Client
+traceparent: Hidden
+playercount: 1
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-length: 56
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: bc90e3cf-c0eb-1055-9127-2b485a6ad60e
+x-envoy-upstream-service-time: 7
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 20, 20;w=60, 20;w=60
+x-ratelimit-remaining: 19
+x-ratelimit-reset: 10
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"data":[{"id":2,"name":"","displayName":""}]}
+
+#### REQUEST ####
+
+GET /v1/user/friend-requests/count HTTP/2.0
+host: friends.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-length: 11
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: bc90e3cf-c0eb-1055-9127-2b485a6ad60e
+x-envoy-upstream-service-time: 2
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 10000;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 10
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"count":0}
+
+#### REQUEST ####
+
+GET /v1/users/1/friends/find?limit=20&userSort=1 HTTP/2.0
+host: friends.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+friends-sort: friends-sort-00000000-0000-0000-0000-000000000000
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-length: 89
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: bc90e3cf-c0eb-1055-9127-2b485a6ad60e
+x-envoy-upstream-service-time: 8
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 10
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"PreviousCursor":null,"PageItems":[{"id":2}],"NextCursor":null,"HasMore":null}
+
+#### REQUEST ####
+
+GET /v1/users/1/friends/count HTTP/2.0
+host: friends.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Home
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-length: 11
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: bc90e3cf-c0eb-1055-9127-2b485a6ad60e
+x-envoy-upstream-service-time: 5
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 10
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"count":1}
+
+#### REQUEST ####
+
+GET /v1/messages/unread/count HTTP/2.0
+host: privatemessages.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-length: 11
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:49 GMT
+server: public-gateway
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+roblox-machine-id: f1ae8ce4-63cc-0741-1012-1cecf13dde00
+x-envoy-upstream-service-time: 4
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 100;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 10
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"count":0}
+
+#### REQUEST ####
+
+GET /v2/stream-notifications/unread-count HTTP/2.0
+host: notifications.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:49 GMT
+server: public-gateway
+cache-control: no-cache
+content-length: 46
+strict-transport-security: max-age=31536000
+strict-transport-security: max-age=3600
+x-frame-options: SAMEORIGIN
+roblox-machine-id: e3a39aad-4a08-6314-f333-30f914ee993a
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 4
+x-terms-message: Terms apply https://rblx.co/TOU.
+x-ratelimit-limit: 30, 10000;w=60, 30;w=60
+x-ratelimit-remaining: 29
+x-ratelimit-reset: 10
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"unreadNotifications":0,"statusMessage":null}
+
+#### REQUEST ####
+
+POST /v1/batch HTTP/1.1
+Host: thumbnails.roblox.com
+Accept: */*
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Requester: Client
+Content-Type: application/json; charset=utf-8
+traceparent: Hidden
+PlayerCount: 1
+IsFtsThumbAccepted: true
+rbx-session-data: Startup
+X-CSRF-TOKEN: qTFGUi5+uG1u
+Content-Length: 699
+Connection: keep-alive
+
+[
+{"requestId":"type=AvatarHeadShot&id=1&w=150&h=150&filters=&includebackground=true&includeprofileframe=true","targetId":1,"type":"AvatarHeadShot","size":"150x150","format":"webp","isCircular":false,"includeBackground":true,"includeProfileFrame":true},
+{"requestId":"type=AvatarHeadShot&id=1&w=150&h=150&filters=&includebackground=true","targetId":1,"type":"AvatarHeadShot","size":"150x150","format":"webp","isCircular":false,"includeBackground":true},
+{"requestId":"type=Avatar&id=1&w=720&h=720&filters=&includebackground=true","targetId":1,"type":"Avatar","size":"720x720","format":"webp","isCircular":false,"includeBackground":true}
+]
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+cache-control: no-cache
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000
+strict-transport-security: max-age=3600
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 13214fc3-18d0-02aa-a2e4-0b7d4138c28a
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 3
+x-terms-message: Terms apply https://rblx.co/TOU.
+x-ratelimit-limit: 25, 25;w=1, 10000;w=60
+x-ratelimit-remaining: 24
+x-ratelimit-reset: 1
+x-ingress-proxy: true
+x-roblox-edge: c118
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{"data":[{"requestId":"type=AvatarHeadShot&id=1&w=150&h=150&filters=&includebackground=true&includeprofileframe=true","errorCode":0,"errorMessage":"","targetId":1,"state":"Completed","imageUrl":"https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5F01B14D851F9FE6B40322FC44A069A6-Png/150/150/AvatarHeadshot/Webp/noFilter","version":"TN3 - cached"},{"requestId":"type=AvatarHeadShot&id=1&w=150&h=150&filters=&includebackground=true","errorCode":0,"errorMessage":"","targetId":1,"state":"Completed","imageUrl":"https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5F01B14D851F9FE6B40322FC44A069A6-Png/150/150/AvatarHeadshot/Webp/noFilter","version":"TN3"},{"requestId":"type=Avatar&id=1&w=720&h=720&filters=&includebackground=true","errorCode":0,"errorMessage":"","targetId":1,"state":"Completed","imageUrl":"https://tr.rbxcdn.com/30DAY-Avatar-5F01B14D851F9FE6B40322FC44A069A6-Png/720/720/Avatar/Webp/noFilter","version":"TN3"}]}
+
+#### REQUEST ####
+
+GET /modals-api/v1/prompts?entryPoint=HomepageLaunch&clientAttributes=%7B%22KidsAccountHasResetToDefaultTheme%22%3A%22Default%22%7D HTTP/1.1
+Host: apis.roblox.com
+Accept-Encoding: deflate, gzip, zstd
+Cookie: Hidden
+Cache-Control: no-cache
+User-Agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+Accept: application/json
+traceparent: Hidden
+PlayerCount: 1
+Requester: Client
+IsFtsThumbAccepted: true
+rbx-session-data: Startup
+Connection: keep-alive
+
+#### RESPONSE ####
+
+HTTP/1.1 200 OK
+content-type: application/json
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+roblox-machine-id: 8a0c549d-3402-ca46-2280-ae1c88b92b2c
+x-envoy-upstream-service-time: 118
+x-envoy-attempt-count: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 20, 100;w=60, 20;w=60
+x-ratelimit-remaining: 19
+x-ratelimit-reset: 10
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+transfer-encoding: chunked
+
+{ "pageEntries": [ { "pageEntry": { "robloxComponent": "HomepageBannerEmpty", "identifier": "00000000-0000-0000-0000-000000000000", "title": "HomepageBannerEmpty", "category": "SurfaceBanner" }, "inputData": { } } ], "hydrationData": { "badge": { }, "universe": { }, "creator": { }, "event": { }, "song": { }, "gamePass": { }, "mediaAsset": { }, "socialLink": { }, "gameDeveloperProduct": { }, "gameSubscription": { }, "marketplaceCatalogCategory": { }, "marketplaceAsset": { }, "marketplaceBundle": { }, "marketplaceLook": { }, "catalogSort": { }, "ageRecommendation": { }, "universeUserFollow": { }, "universeUserVote": { }, "userProfile": { }, "universeUserFavorite": { }, "playability": { }, "universeUserFollowLimit": { }, "universeUserVoteFeedbackMetadata": { }, "moment": { }, "community": { }, "communityUserMembership": { }, "friendRecommendation": { }, "universePrivateServer": { }, "notificationBadge": { }, "collectibleItem": { } }, "templates": { "home-task-card-carousel-2026-08-12": { "template": { "collectionCarousel": { "props": { "collectionItemSize": { "literal": "Large" }, "headerComponent": { "literal": { "inputs": { }, "robloxComponent": "", "inlineComponent": { "sectionHeader": { "props": { "titleText": { "translation": { "namespace": "Feature.Home", "key": "Label.LetsGetStarted", "mapKey": "ba9d8edb" } } }, "shared": { "componentType": "UI_COMPONENT_TYPE_SECTION_HEADER", "data": [ ], "analyticsData": { } } } } } }, "items": { "componentList": { "bindingPath": "cards", "defaultItem": { "robloxComponent": "HomeAddConnectionsCard", "inputs": { } }, "itemOverrides": { }, "deferItemBuild": false } }, "itemHeightMode": { "literal": "Uniform" }, "impressionEventName": { "literal": "promptImpressions" }, "skipItemImpressionsLog": { "literal": false } }, "shared": { "componentType": "UI_COMPONENT_TYPE_COLLECTION_CAROUSEL", "data": [ ], "analyticsData": { "collectionId": { "literal": "900000001" }, "contentType": { "literal": "promptCard" } } } } }, "robloxComponent": "HomeTaskCardCarousel" }, "home-add-connections-card-2026-08-12": { "template": { "card": { "props": { "titleText": { "translation": { "namespace": "Feature.Home", "key": "Label.PlayWithAFriend", "mapKey": "854cb9f0" } }, "descriptionText": { "translation": { "namespace": "Feature.Home", "key": "Description.FriendCard", "mapKey": "e49f1e06" } }, "ctaText": { "translation": { "namespace": "Feature.Home", "key": "Action.FriendCard", "mapKey": "555334bf" } }, "ctaVariant": { "literal": "SoftEmphasis" }, "ctaSize": { "literal": "Medium" }, "ctaOnActivated": { "value": { "openAddConnectionsPageAction": { "actionType": "ACTION_TYPE_OPEN_ADD_CONNECTIONS_PAGE", "actionParams": { "userId": { "bindingPath": "user_id" }, "source": { "literal": "HomeTaskCardCarousel" } } } } }, "image": { "literal": "rbxassetid://103509674674135" } }, "shared": { "componentType": "UI_COMPONENT_TYPE_CARD", "data": [ ], "analyticsData": { "id": { "literal": "add-connections-card" }, "promptType": { "bindingPath": "prompt_type" }, "promptId": { "bindingPath": "prompt_id" } } } } }, "robloxComponent": "HomeAddConnectionsCard" }, "empty-banner-07-17": { "template": { "view": { "props": { "tag": { "literal": "size-full-0 auto-y" }, "children": { "itemList": { "items": [ ] } } }, "shared": { "componentType": "UI_COMPONENT_TYPE_VIEW", "data": [ ], "analyticsData": { } } } }, "robloxComponent": "HomepageBannerEmpty" } }, "customPrompts": { }, "localizedLiterals": { "ba9d8edb": "Ayo mulai", "854cb9f0": "Bermain bersama teman", "e49f1e06": "Terhubung dengan pengguna lain untuk bermain dan chat bersama.", "555334bf": "Tambah teman" } }
+
+#### REQUEST ####
+
+GET /v1/catalog/metadata HTTP/2.0
+host: catalog.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+rbx-in-experience-locale: id-id
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+cache-control: no-cache
+strict-transport-security: max-age=31536000
+strict-transport-security: max-age=3600
+x-frame-options: SAMEORIGIN
+roblox-machine-id: 1bd1e9bb-3b2f-3f51-19e7-bfe9f2475370
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 18
+x-terms-message: Terms apply https://rblx.co/TOU.
+x-ratelimit-limit: 120, 240;w=60, 120;w=60
+x-ratelimit-remaining: 119
+x-ratelimit-reset: 10
+vary: Accept-Encoding
+x-ingress-proxy: true
+x-roblox-edge: c117
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+content-length: 811
+
+{"numberOfCatalogItemsToDisplayOnSplash":25,"numberOfCatalogItemsToDisplayOnSplashOnPhone":15,"isCatalogSortsFromApiEnabled":true,"is3dInEachItemCardAbTestingEnabled":false,"is3dInEachItemCardEnabled":false,"timeoutOn3dThumbnailRequestInMs":0,"isPremiumPriceOnItemTilesEnabled":false,"isPremiumIconOnItemTilesEnabled":false,"isPremiumSortEnabled":false,"isJustinUiChangesEnabled":true,"isCategoryReorgEnabled":true,"LCEnabledInEditorAndCatalog":true,"isAutocompleteEnabled":true,"autocompleteOmniSearchNumToDisplay":5,"autocompleteAvatarSearchNumToDisplay":5,"isCatalogAdsRowOnRecommendedPageEnabled":true,"isDynamicHeadsEnabled":true,"categoryOptimizationEnabled":true,"isCollectiblesEnabled":true,"isCurrentUserAllowedToCreateShares":false,"isRemoveAllSubcategoryEnabled":true,"isRecentMarketplaceUser":false}
+
+#### REQUEST #####
+
+GET /v1/avatar-rules HTTP/2.0
+host: avatar.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+content-type: application/json
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Startup
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+date: Sat, 17 Oct 2026 08:45:50 GMT
+server: public-gateway
+cache-control: no-cache
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000
+strict-transport-security: max-age=3600
+x-frame-options: SAMEORIGIN
+roblox-machine-id: deab33d2-63c6-2169-9635-792e791ddbd7
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 1
+x-terms-message: Terms apply https://rblx.co/TOU.
+x-ratelimit-limit: 600, 10000;w=60, 600;w=60
+x-ratelimit-remaining: 599
+x-ratelimit-reset: 9
+x-ingress-proxy: true
+x-roblox-edge: c161
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+content-length: 11714
+
+{"playerAvatarTypes":["R6","R15"],"scales":{"height":{"min":0.90,"max":1.05,"increment":0.01},"width":{"min":0.70,"max":1.0,"increment":0.01},"head":{"min":0.95,"max":1.0,"increment":0.01},"proportion":{"min":0.0,"max":1.0,"increment":0.01},"bodyType":{"min":0.0,"max":1.0,"increment":0.01}},"wearableAssetTypes":[{"maxNumber":1,"id":2,"name":"T-Shirt"},{"maxNumber":3,"id":8,"name":"Hat"},{"maxNumber":1,"id":11,"name":"Shirt"},{"maxNumber":1,"id":12,"name":"Pants"},{"maxNumber":1,"id":19,"name":"Gear"},{"maxNumber":1,"id":27,"name":"Torso"},{"maxNumber":1,"id":28,"name":"Right Arm"},{"maxNumber":1,"id":29,"name":"Left Arm"},{"maxNumber":1,"id":30,"name":"Left Leg"},{"maxNumber":1,"id":31,"name":"Right Leg"},{"maxNumber":1,"id":41,"name":"Hair Accessory"},{"maxNumber":1,"id":42,"name":"Face Accessory"},{"maxNumber":1,"id":43,"name":"Neck Accessory"},{"maxNumber":1,"id":44,"name":"Shoulder Accessory"},{"maxNumber":1,"id":45,"name":"Front Accessory"},{"maxNumber":1,"id":46,"name":"Back Accessory"},{"maxNumber":1,"id":47,"name":"Waist Accessory"},{"maxNumber":1,"id":48,"name":"Climb Animation"},{"maxNumber":1,"id":50,"name":"Fall Animation"},{"maxNumber":1,"id":51,"name":"Idle Animation"},{"maxNumber":1,"id":52,"name":"Jump Animation"},{"maxNumber":1,"id":53,"name":"Run Animation"},{"maxNumber":1,"id":54,"name":"Swim Animation"},{"maxNumber":1,"id":55,"name":"Walk Animation"},{"maxNumber":0,"id":61,"name":"Emote Animation"},{"maxNumber":1,"id":64,"name":"T-Shirt Accessory"},{"maxNumber":1,"id":65,"name":"Shirt Accessory"},{"maxNumber":1,"id":66,"name":"Pants Accessory"},{"maxNumber":1,"id":67,"name":"Jacket Accessory"},{"maxNumber":1,"id":68,"name":"Sweater Accessory"},{"maxNumber":1,"id":69,"name":"Shorts Accessory"},{"maxNumber":1,"id":70,"name":"Left Shoe Accessory"},{"maxNumber":1,"id":71,"name":"Right Shoe Accessory"},{"maxNumber":1,"id":72,"name":"Dress Skirt Accessory"},{"maxNumber":1,"id":76,"name":"Eyebrow Accessory"},{"maxNumber":1,"id":77,"name":"Eyelash Accessory"},{"maxNumber":1,"id":78,"name":"Mood Animation"},{"maxNumber":1,"id":79,"name":"Dynamic Head"},{"maxNumber":6,"id":88,"name":"Face Makeup"},{"maxNumber":6,"id":89,"name":"Lip Makeup"},{"maxNumber":6,"id":90,"name":"Eye Makeup"}],"accessoryRefinementTypes":[8,42,43,44,45,46],"accessoryRefinementLowerBounds":{"Hat":{"position":{"xPosition":-0.25,"yPosition":-0.25,"zPosition":-0.25},"rotation":{"xRotation":-30.0,"yRotation":-30.0,"zRotation":-30.0},"scale":{"xScale":0.8,"yScale":0.8,"zScale":0.8}},"FaceAccessory":{"position":{"xPosition":-0.25,"yPosition":-0.25,"zPosition":-0.25},"rotation":{"xRotation":-30.0,"yRotation":-30.0,"zRotation":-30.0},"scale":{"xScale":0.8,"yScale":0.8,"zScale":0.8}},"NeckAccessory":{"position":{"xPosition":-0.25,"yPosition":-0.25,"zPosition":-0.25},"rotation":{"xRotation":-30.0,"yRotation":-30.0,"zRotation":-30.0},"scale":{"xScale":0.8,"yScale":0.8,"zScale":0.8}},"ShoulderAccessory":{"position":{"xPosition":-0.25,"yPosition":-0.25,"zPosition":-0.25},"rotation":{"xRotation":-30.0,"yRotation":-30.0,"zRotation":-30.0},"scale":{"xScale":0.8,"yScale":0.8,"zScale":0.8}},"FrontAccessory":{"position":{"xPosition":-0.25,"yPosition":-0.25,"zPosition":-0.25},"rotation":{"xRotation":-15.0,"yRotation":-30.0,"zRotation":-30.0},"scale":{"xScale":0.8,"yScale":0.8,"zScale":0.8}},"BackAccessory":{"position":{"xPosition":-0.25,"yPosition":-0.25,"zPosition":-0.25},"rotation":{"xRotation":-15.0,"yRotation":-30.0,"zRotation":-30.0},"scale":{"xScale":0.8,"yScale":0.8,"zScale":0.8}}},"accessoryRefinementUpperBounds":{"Hat":{"position":{"xPosition":0.25,"yPosition":0.25,"zPosition":0.25},"rotation":{"xRotation":30.0,"yRotation":30.0,"zRotation":30.0},"scale":{"xScale":1.2,"yScale":1.2,"zScale":1.2}},"FaceAccessory":{"position":{"xPosition":0.25,"yPosition":0.25,"zPosition":0.25},"rotation":{"xRotation":30.0,"yRotation":30.0,"zRotation":30.0},"scale":{"xScale":1.2,"yScale":1.2,"zScale":1.2}},"NeckAccessory":{"position":{"xPosition":0.25,"yPosition":0.25,"zPosition":0.25},"rotation":{"xRotation":30.0,"yRotation":30.0,"zRotation":30.0},"scale":{"xScale":1.2,"yScale":1.2,"zScale":1.2}},"ShoulderAccessory":{"position":{"xPosition":0.25,"yPosition":0.25,"zPosition":0.25},"rotation":{"xRotation":30.0,"yRotation":30.0,"zRotation":30.0},"scale":{"xScale":1.2,"yScale":1.2,"zScale":1.2}},"FrontAccessory":{"position":{"xPosition":0.25,"yPosition":0.25,"zPosition":0.25},"rotation":{"xRotation":15.0,"yRotation":30.0,"zRotation":30.0},"scale":{"xScale":1.2,"yScale":1.2,"zScale":1.2}},"BackAccessory":{"position":{"xPosition":0.25,"yPosition":0.25,"zPosition":0.25},"rotation":{"xRotation":15.0,"yRotation":30.0,"zRotation":30.0},"scale":{"xScale":1.2,"yScale":1.2,"zScale":1.2}}},"bodyColorsPalette":[{"brickColorId":361,"hexColor":"#564236","name":"Dirt brown"},{"brickColorId":192,"hexColor":"#694028","name":"Reddish brown"},{"brickColorId":217,"hexColor":"#7C5C46","name":"Brown"},{"brickColorId":153,"hexColor":"#957977","name":"Sand red"},{"brickColorId":359,"hexColor":"#AF9483","name":"Linen"},{"brickColorId":352,"hexColor":"#C7AC78","name":"Burlap"},{"brickColorId":5,"hexColor":"#D7C59A","name":"Brick yellow"},{"brickColorId":101,"hexColor":"#DA867A","name":"Medium red"},{"brickColorId":1007,"hexColor":"#A34B4B","name":"Dusty Rose"},{"brickColorId":1014,"hexColor":"#AA5500","name":"CGA brown"},{"brickColorId":38,"hexColor":"#A05F35","name":"Dark orange"},{"brickColorId":18,"hexColor":"#CC8E69","name":"Nougat"},{"brickColorId":125,"hexColor":"#EAB892","name":"Light orange"},{"brickColorId":1030,"hexColor":"#FFCC99","name":"Pastel brown"},{"brickColorId":133,"hexColor":"#D5733D","name":"Neon orange"},{"brickColorId":106,"hexColor":"#DA8541","name":"Bright orange"},{"brickColorId":105,"hexColor":"#E29B40","name":"Br. yellowish orange"},{"brickColorId":1017,"hexColor":"#FFAF00","name":"Deep orange"},{"brickColorId":24,"hexColor":"#F5CD30","name":"Bright yellow"},{"brickColorId":334,"hexColor":"#F8D96D","name":"Daisy orange"},{"brickColorId":226,"hexColor":"#FDEA8D","name":"Cool yellow"},{"brickColorId":141,"hexColor":"#27462D","name":"Earth green"},{"brickColorId":1021,"hexColor":"#3A7D15","name":"Camo"},{"brickColorId":28,"hexColor":"#287F47","name":"Dark green"},{"brickColorId":37,"hexColor":"#4B974B","name":"Bright green"},{"brickColorId":310,"hexColor":"#5B9A4C","name":"Shamrock"},{"brickColorId":317,"hexColor":"#7C9C6B","name":"Moss"},{"brickColorId":119,"hexColor":"#A4BD47","name":"Br. yellowish green"},{"brickColorId":1011,"hexColor":"#002060","name":"Navy blue"},{"brickColorId":1012,"hexColor":"#2154B9","name":"Deep blue"},{"brickColorId":1010,"hexColor":"#0000FF","name":"Really blue"},{"brickColorId":23,"hexColor":"#0D69AC","name":"Bright blue"},{"brickColorId":305,"hexColor":"#527CAE","name":"Steel blue"},{"brickColorId":102,"hexColor":"#6E99CA","name":"Medium blue"},{"brickColorId":45,"hexColor":"#B4D2E4","name":"Light blue"},{"brickColorId":107,"hexColor":"#008F9C","name":"Bright bluish green"},{"brickColorId":1018,"hexColor":"#12EED4","name":"Teal"},{"brickColorId":1027,"hexColor":"#9FF3E9","name":"Pastel blue-green"},{"brickColorId":1019,"hexColor":"#00FFFF","name":"Toothpaste"},{"brickColorId":1013,"hexColor":"#04AFEC","name":"Cyan"},{"brickColorId":11,"hexColor":"#80BBDC","name":"Pastel Blue"},{"brickColorId":1024,"hexColor":"#AFDDFF","name":"Pastel light blue"},{"brickColorId":104,"hexColor":"#6B327C","name":"Bright violet"},{"brickColorId":1023,"hexColor":"#8C5B9F","name":"Lavender"},{"brickColorId":321,"hexColor":"#A75E9B","name":"Lilac"},{"brickColorId":1015,"hexColor":"#AA00AA","name":"Magenta"},{"brickColorId":1031,"hexColor":"#6225D1","name":"Royal purple"},{"brickColorId":1006,"hexColor":"#B480FF","name":"Alder"},{"brickColorId":1026,"hexColor":"#B1A7FF","name":"Pastel violet"},{"brickColorId":21,"hexColor":"#C4281C","name":"Bright red"},{"brickColorId":1004,"hexColor":"#FF0000","name":"Really red"},{"brickColorId":1032,"hexColor":"#FF00BF","name":"Hot pink"},{"brickColorId":1016,"hexColor":"#FF66CC","name":"Pink"},{"brickColorId":330,"hexColor":"#FF98DC","name":"Carnation pink"},{"brickColorId":9,"hexColor":"#E8BAC8","name":"Light reddish violet"},{"brickColorId":1025,"hexColor":"#FFC9C9","name":"Pastel orange"},{"brickColorId":364,"hexColor":"#5A4C42","name":"Dark taupe"},{"brickColorId":351,"hexColor":"#BC9B5D","name":"Cork"},{"brickColorId":1008,"hexColor":"#C1BE42","name":"Olive"},{"brickColorId":29,"hexColor":"#A1C48C","name":"Medium green"},{"brickColorId":1022,"hexColor":"#7F8E64","name":"Grime"},{"brickColorId":151,"hexColor":"#789082","name":"Sand green"},{"brickColorId":135,"hexColor":"#74869D","name":"Sand blue"},{"brickColorId":1020,"hexColor":"#00FF00","name":"Lime green"},{"brickColorId":1028,"hexColor":"#CCFFCC","name":"Pastel green"},{"brickColorId":1009,"hexColor":"#FFFF00","name":"New Yeller"},{"brickColorId":1029,"hexColor":"#FFFFCC","name":"Pastel yellow"},{"brickColorId":1003,"hexColor":"#111111","name":"Really black"},{"brickColorId":26,"hexColor":"#1B2A35","name":"Black"},{"brickColorId":199,"hexColor":"#635F62","name":"Dark stone grey"},{"brickColorId":194,"hexColor":"#A3A2A5","name":"Medium stone grey"},{"brickColorId":1002,"hexColor":"#CDCDCD","name":"Mid gray"},{"brickColorId":208,"hexColor":"#E5E4DF","name":"Light stone grey"},{"brickColorId":1,"hexColor":"#F2F3F3","name":"White"},{"brickColorId":1001,"hexColor":"#F8F8F8","name":"Institutional white"}],"basicBodyColorsPalette":[{"brickColorId":364,"hexColor":"#5A4C42","name":"Dark taupe"},{"brickColorId":217,"hexColor":"#7C5C46","name":"Brown"},{"brickColorId":359,"hexColor":"#AF9483","name":"Linen"},{"brickColorId":18,"hexColor":"#CC8E69","name":"Nougat"},{"brickColorId":125,"hexColor":"#EAB892","name":"Light orange"},{"brickColorId":361,"hexColor":"#564236","name":"Dirt brown"},{"brickColorId":192,"hexColor":"#694028","name":"Reddish brown"},{"brickColorId":351,"hexColor":"#BC9B5D","name":"Cork"},{"brickColorId":352,"hexColor":"#C7AC78","name":"Burlap"},{"brickColorId":5,"hexColor":"#D7C59A","name":"Brick yellow"},{"brickColorId":153,"hexColor":"#957977","name":"Sand red"},{"brickColorId":1007,"hexColor":"#A34B4B","name":"Dusty Rose"},{"brickColorId":101,"hexColor":"#DA867A","name":"Medium red"},{"brickColorId":1025,"hexColor":"#FFC9C9","name":"Pastel orange"},{"brickColorId":330,"hexColor":"#FF98DC","name":"Carnation pink"},{"brickColorId":135,"hexColor":"#74869D","name":"Sand blue"},{"brickColorId":305,"hexColor":"#527CAE","name":"Steel blue"},{"brickColorId":11,"hexColor":"#80BBDC","name":"Pastel Blue"},{"brickColorId":1026,"hexColor":"#B1A7FF","name":"Pastel violet"},{"brickColorId":321,"hexColor":"#A75E9B","name":"Lilac"},{"brickColorId":107,"hexColor":"#008F9C","name":"Bright bluish green"},{"brickColorId":310,"hexColor":"#5B9A4C","name":"Shamrock"},{"brickColorId":317,"hexColor":"#7C9C6B","name":"Moss"},{"brickColorId":29,"hexColor":"#A1C48C","name":"Medium green"},{"brickColorId":105,"hexColor":"#E29B40","name":"Br. yellowish orange"},{"brickColorId":24,"hexColor":"#F5CD30","name":"Bright yellow"},{"brickColorId":334,"hexColor":"#F8D96D","name":"Daisy orange"},{"brickColorId":199,"hexColor":"#635F62","name":"Dark stone grey"},{"brickColorId":1002,"hexColor":"#CDCDCD","name":"Mid gray"},{"brickColorId":1001,"hexColor":"#F8F8F8","name":"Institutional white"}],"minimumDeltaEBodyColorDifference":11.4,"proportionsAndBodyTypeEnabledForUser":true,"defaultClothingAssetLists":{"defaultShirtAssetIds":[855776103,855760101,855766176,855777286,855768342,855779323,855773575,855778084],"defaultPantAssetIds":[855783877,855780360,855781078,855782781,855781508,855785499,855782253,855784936]},"bundlesEnabledForUser":true,"emotesEnabledForUser":true}
+
+#### REQUEST ####
+
+GET /v1/reminder HTTP/2.0
+host: usermoderation.roblox.com
+accept: */*
+accept-encoding: deflate, gzip, zstd
+cookie: Hidden
+cache-control: no-cache
+user-agent: Roblox/WinInetRobloxApp/0.743.0.7431134 (GlobalDist; RobloxDirectDownload)
+traceparent: Hidden
+playercount: 1
+requester: Client
+isftsthumbaccepted: true
+rbx-session-data: Home
+
+#### RESPONSE ####
+
+HTTP/2.0 200 
+content-type: application/json; charset=utf-8
+content-length: 149
+date: Sat, 17 Oct 2026 08:45:51 GMT
+x-envoy-attempt-count: 1
+x-envoy-upstream-service-time: 14
+server: public-gateway
+x-terms-message: Terms apply https://rblx.co/TOU.
+strict-transport-security: max-age=3600
+x-ratelimit-limit: 100, 10000;w=60, 100;w=60
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 9
+x-ingress-proxy: true
+x-roblox-edge: c161
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1}
+
+{"shouldSurfaceReminder":false,"interventionId":"","contentVariant":"","policyViolation":"","reminderNumber":0,"experimentVariant":"","nudgeType":""}
